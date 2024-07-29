@@ -3059,7 +3059,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 3959,2022,Jes punya emot itu dia beli ke moonton ygy,jes emot beli moonton ygy,"['jes', 'emot', 'beli', 'moonton', 'ygy']",negatif,-1
 3960,2022,Sehat terus kak jess dengan istri nya ?????? dan keluarga nya,sehat kak jes istri nya wajah dengan tangan tutup mulut wajah dengan tangan tutup mulut wajah senyum lebar mata hati keluarga nya,"['sehat', 'kak', 'jes', 'istri', 'nya', 'wajah', 'dengan', 'tangan', 'tutup', 'mulut', 'wajah', 'dengan', 'tangan', 'tutup', 'mulut', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'keluarga', 'nya']",positif,-1
 3961,2022,Suara nya sisca tuh bikin adem yaah????,suara nya sisca tuh bikin adem ya wajah gembira urai air mata wajah senyum lebar mata hati,"['suara', 'nya', 'sisca', 'tuh', 'bikin', 'adem', 'ya', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,-1
-3962,2022,Aku sudah punya ??,,"['wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-1
 3963,2022,Ihh kirain Mun sambaa tapi ternyata bukan??,ih mun samba  keras,"['ih', 'mun', 'samba', 'wajah', 'menang', 'keras']",negatif,-1
 3964,2022,Bg jessno ko botak bg??,bang jessno botak bang ,"['bang', 'jessno', 'botak', 'bang', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-1
 3965,2022,nangis cok ngeliat diamon'ny,menang cok diamonnya,"['menang', 'cok', 'diamonnya']",negatif,-1
@@ -3465,7 +3464,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 4481,2024,ini mau jalan? apa review stroller ????,jalan review stroller  ,"['jalan', 'review', 'stroller', 'wajah', 'menang', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-2
 4482,2024,Ini beneran di pake gak yah?,benar pakai ya,"['benar', 'pakai', 'ya']",negatif,-2
 4483,2024,Stroller nya buat anaku aja ??,stroller nya ana ,"['stroller', 'nya', 'ana', 'wajah', 'menang']",negatif,-2
-4484,2024,Bagi satu dong????, ,"['wajah', 'menang', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-2
 4485,2024,Lngsng beli semua variasi ??,lngsng beli variasi ,"['lngsng', 'beli', 'variasi', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-2
 4486,2024,"That?? it. Emang low value woman ngarep diperlakukan sama kayak yg emg high value woman. Berharap dapet laki yg bisa kayak Jess padahal ga sanggup nyamain sisca. Udah ga kenal nyerang personal, di kasih tau makin nyerang personal lagi. Dah ah emg lo doang yang pinter ??",that si low value woman harap laku kayak high value woman harap laki kayak jes sanggup sama sisca kenal serang personal kasih tau serang personal deh ah lo doang pintar tertawa terbahakbahak,"['that', 'si', 'low', 'value', 'woman', 'harap', 'laku', 'kayak', 'high', 'value', 'woman', 'harap', 'laki', 'kayak', 'jes', 'sanggup', 'sama', 'sisca', 'kenal', 'serang', 'personal', 'kasih', 'tau', 'serang', 'personal', 'deh', 'ah', 'lo', 'doang', 'pintar', 'tertawa', 'terbahakbahak']",negatif,-2
 4487,2024,Benaran mau dong,benar,['benar'],negatif,-2
@@ -4366,7 +4364,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 5705,2022,Cari kaos polos dan sablon disini,cari kaos polos sablon,"['cari', 'kaos', 'polos', 'sablon']",negatif,-9
 5706,2022,Kalau kahwin di gereja mereka tidak akan bisa cerai itu menurut Bible mengisahkan seseorang cinta adam dan hawa... kalau islam bisa banyak kahwin loh tetapi untuk dan ada sebab kenapa lelaki mahu ada bini satu dan mesti minta izin ke kami sebagai perempuan yang istri pertama sih,kahwin gereja cerai bible kisah cinta adam hawa islam kahwin loh lelaki mahu bini mesti izin perempuan istri sih,"['kahwin', 'gereja', 'cerai', 'bible', 'kisah', 'cinta', 'adam', 'hawa', 'islam', 'kahwin', 'loh', 'lelaki', 'mahu', 'bini', 'mesti', 'izin', 'perempuan', 'istri', 'sih']",negatif,-9
 5707,2023,Kalau nggak uang aja untuk hutang orang tua,uang hutang orang tua,"['uang', 'hutang', 'orang', 'tua']",negatif,-9
-5708,2023,Anaknya ditelantarkan hehe..??????????,anak telantar hehe wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata,"['anak', 'telantar', 'hehe', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",netral,-9
 5709,2023,"Sedih ,ngilu2 smua urat nafi",sedih ngilu urat nafi,"['sedih', 'ngilu', 'urat', 'nafi']",negatif,-9
 5710,2023,Selama hamil gak boleh makan telur setengah matang kaya gitu??,hamil makan telur matang kayak ,"['hamil', 'makan', 'telur', 'matang', 'kayak', 'wajah', 'menang']",negatif,-9
 5711,2023,Kejunya kurang lumer ajaa pasti lebihh ????,keju lumer ngiler ngiler,"['keju', 'lumer', 'ngiler', 'ngiler']",negatif,-9
