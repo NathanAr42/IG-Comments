@@ -96,7 +96,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 159,2021,Yg hanya mampu beli Gorio rio yg gopean minggir dahh kasian lambung kau kalau tau ??????,beli gorio rio gopean minggir deh kasihan lambung kau tau api api api,"['beli', 'gorio', 'rio', 'gopean', 'minggir', 'deh', 'kasihan', 'lambung', 'kau', 'tau', 'api', 'api', 'api']",positif,8
 160,2021,Kita ke upin yok pasti di kasih gratis.....??,upin yuk kasih gratis wajah gembira urai air mata,"['upin', 'yuk', 'kasih', 'gratis', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,8
 161,2021,Yaa Allah baru tadi liat eskrim ketoprak gw bilang abis ini nasi Padang lah malah udah duluan ?? gila sih,ya allah lihat eskrim ketoprak gue bilang habis nasi padang duluan wajah menang keras gila sih,"['ya', 'allah', 'lihat', 'eskrim', 'ketoprak', 'gue', 'bilang', 'habis', 'nasi', 'padang', 'duluan', 'wajah', 'menang', 'keras', 'gila', 'sih']",positif,8
-162,2021,Pelangi pelangi,pelangi pelangi,"['pelangi', 'pelangi']",positif,8
 167,2021,MOOD BANGET HUUUAAAA?????????? SEHAT" SELALU YA KAK SISCA DAN ALIYYAH MAKIN SUKSES,mood banget huua wajah menang keras wajah menang keras hati merah hati merah sehat ya kak sisca aliyyah sukses,"['mood', 'banget', 'huua', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'hati', 'merah', 'hati', 'merah', 'sehat', 'ya', 'kak', 'sisca', 'aliyyah', 'sukses']",positif,8
 168,2021,Selamat mencoba ga mikir. Indonesia masih banyak masyarakat hidup dengan bantuan BLT dr pemerintah seenaknya bilang selamat mencoba,selamat coba mikir indonesia masyarakat hidup bantu blt perintah bilang selamat coba,"['selamat', 'coba', 'mikir', 'indonesia', 'masyarakat', 'hidup', 'bantu', 'blt', 'perintah', 'bilang', 'selamat', 'coba']",positif,8
 170,2022,Seneng bgt lihat kalian bahagia ???,senang banget lihat bahagia hati merah,"['senang', 'banget', 'lihat', 'bahagia', 'hati', 'merah']",positif,8
@@ -217,7 +216,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 331,2023,Kenapa gak warna ungu karna warna ungu bisa membuat anak cerdas dan pintar loh ??????,warna ungu warna ungu anak cerdas pintar loh api api api,"['warna', 'ungu', 'warna', 'ungu', 'anak', 'cerdas', 'pintar', 'loh', 'api', 'api', 'api']",positif,6
 332,2023,Pas lihat video.. pasti ada yg komen cuci dulu.. dan iya ada,pas lihat video komen cuci iya,"['pas', 'lihat', 'video', 'komen', 'cuci', 'iya']",positif,6
 333,2023,Bismillahirrahmanirrahim semoga suatu saat dapet??,bismillahirrahmanirrahim moga tangan angkat dan rapat sama,"['bismillahirrahmanirrahim', 'moga', 'tangan', 'angkat', 'dan', 'rapat', 'sama']",netral,6
-335,2023,Kak tlong bantu aku biaya lahiran trima kasih ???,kak tlong bantu biaya lahir terima kasih hati merah,"['kak', 'tlong', 'bantu', 'biaya', 'lahir', 'terima', 'kasih', 'hati', 'merah']",positif,6
 336,2023,"08.10 bener gk kak,semoga benar ya Allah",kak moga ya allah,"['kak', 'moga', 'ya', 'allah']",positif,6
 338,2023,Di adznin gk bang? ??????,adznin bang tangan angkat dan rapat sama warna kulit cerah wajah senyum lebar dan keringat,"['adznin', 'bang', 'tangan', 'angkat', 'dan', 'rapat', 'sama', 'warna', 'kulit', 'cerah', 'wajah', 'senyum', 'lebar', 'dan', 'keringat']",positif,6
 339,2024,Aku lebih suka yang tahun lalu sama sodaranya lebih asik yang mukbang,suka sodaranya asik mukbang,"['suka', 'sodaranya', 'asik', 'mukbang']",positif,6
@@ -287,7 +285,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 439,2022,Bajunya pink lucu banget aku suka banget,baju pink lucu banget suka banget,"['baju', 'pink', 'lucu', 'banget', 'suka', 'banget']",positif,5
 440,2022,Ini lah pasangan yang sebenarnya saling sayang saling cinta dan saling melengkapi,pasang sayang cinta lengkap,"['pasang', 'sayang', 'cinta', 'lengkap']",positif,5
 441,2022,makin kesini liat mereka senang bnget semoga cepat punya momongan aaa ga sbaar,kesini lihat senang banget moga cepat momong a sbaar,"['kesini', 'lihat', 'senang', 'banget', 'moga', 'cepat', 'momong', 'a', 'sbaar']",positif,5
-442,2022,Pro sis discs kohl ???????????,pro sis discs kohl wajah dengan mulut buka wajah senyum lebar mata hati hati merah api angkat tangan,"['pro', 'sis', 'discs', 'kohl', 'wajah', 'dengan', 'mulut', 'buka', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'hati', 'merah', 'api', 'angkat', 'tangan']",positif,5
 443,2022,Orang berada beda ya . Memang pasangan yang pas,orang beda ya pasang pas,"['orang', 'beda', 'ya', 'pasang', 'pas']",positif,5
 444,2022,sisca baju nya simple bangettt,sisca baju nya simple banget,"['sisca', 'baju', 'nya', 'simple', 'banget']",positif,5
 445,2022,Aahh.. seneng bgt liatnya. Semoga kalian selalu rukun,aah senang banget lihat moga rukun,"['aah', 'senang', 'banget', 'lihat', 'moga', 'rukun']",positif,5
@@ -324,7 +321,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 480,2023,Malah bengong ??,bengong tertawa terbahakbahak,"['bengong', 'tertawa', 'terbahakbahak']",positif,5
 481,2023,Aku kepingin ketemu pasangan ini pi gin dpt duir,pengin ketemu pasang gin duir,"['pengin', 'ketemu', 'pasang', 'gin', 'duir']",positif,5
 482,2023,Bismillah 3x semoga dapet hadiah nya bisa kli hhh??,bismillah x moga hadiah nya kali h wajah gembira urai air mata,"['bismillah', 'x', 'moga', 'hadiah', 'nya', 'kali', 'h', 'wajah', 'gembira', 'urai', 'air', 'mata']",netral,5
-483,2023,Ka mu dongg???????????????,kak mu hati merah hati merah hati merah hati merah hati merah,"['kak', 'mu', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,5
 484,2023,Kesabaran Sisca luar biasa ????????,sabar sisca jempol ke atas jempol ke atas jempol ke atas jempol ke atas,"['sabar', 'sisca', 'jempol', 'ke', 'atas', 'jempol', 'ke', 'atas', 'jempol', 'ke', 'atas', 'jempol', 'ke', 'atas']",positif,5
 485,2023,Kesabaran setebal ban truk,sabar setebal ban truk,"['sabar', 'setebal', 'ban', 'truk']",positif,5
 486,2023,Kesabaran se tebal kamus,sabar tebal kamus,"['sabar', 'tebal', 'kamus']",positif,5
@@ -493,15 +489,12 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 711,2023,"Dont try this at Home,bakalan suruh tidur di luar om...????",dont try this at home suruh tidur om wajah gembira dengan mata bahagia wajah gembira dengan mata bahagia,"['dont', 'try', 'this', 'at', 'home', 'suruh', 'tidur', 'om', 'wajah', 'gembira', 'dengan', 'mata', 'bahagia', 'wajah', 'gembira', 'dengan', 'mata', 'bahagia']",positif,4
 713,2023,Kadang kalau denger suara Sisca tu kayak mirip suaranya Jesika Mila,kadang dengar suara sisca kayak suara jesika mila,"['kadang', 'dengar', 'suara', 'sisca', 'kayak', 'suara', 'jesika', 'mila']",netral,4
 714,2023,Cakep amaat,cakep amaat,"['cakep', 'amaat']",positif,4
-715,2023,08.10 pagi kak bismillah di telfon kak sis,pagi kak bismillah telfon kak sis,"['pagi', 'kak', 'bismillah', 'telfon', 'kak', 'sis']",positif,4
 716,2023,"Semua di kontenin, ambisi kali.",kontenin ambisi kali,"['kontenin', 'ambisi', 'kali']",negatif,4
 717,2023,Mari kita cobaaaa,mari coba,"['mari', 'coba']",positif,4
 720,2023,Maaf kak jes munurut saya akhir akhir ini tidak ada postingan yg berkaitan debgan mobile legends  padahal game tersebut yg membesarkan  kak jes.,maaf kak jes munurut postingan kait debgan mobile legends game besar kak jes,"['maaf', 'kak', 'jes', 'munurut', 'postingan', 'kait', 'debgan', 'mobile', 'legends', 'game', 'besar', 'kak', 'jes']",positif,4
 721,2023,Semoga sehat selalu Baby @sophianolimit God Bless you always ????,moga sehat baby god bles you always dua hati wajah malaikat,"['moga', 'sehat', 'baby', 'god', 'bles', 'you', 'always', 'dua', 'hati', 'wajah', 'malaikat']",positif,4
 722,2023,Semoga segera pnya baby lucu kaya ni Tuhan,moga baby lucu kayak nih tuhan,"['moga', 'baby', 'lucu', 'kayak', 'nih', 'tuhan']",positif,4
 723,2023,Sopia ayo main kelereng,sopia ayo main kelereng,"['sopia', 'ayo', 'main', 'kelereng']",positif,4
-724,2023,Bg mama ny mn ??..,bang mama nya,"['bang', 'mama', 'nya']",positif,4
-725,2023,Asi apa sufor??,asi sufor angkat tangan,"['asi', 'sufor', 'angkat', 'tangan']",positif,4
 726,2024,"Mau donk baju bayi ny kak, semoga rezeki calon beby boy aku aamiin????",baju bayi nya kak moga rezeki calon beby boy amin wajah senyum dengan hati wajah malaikat,"['baju', 'bayi', 'nya', 'kak', 'moga', 'rezeki', 'calon', 'beby', 'boy', 'amin', 'wajah', 'senyum', 'dengan', 'hati', 'wajah', 'malaikat']",positif,4
 727,2024,"Kak mau dong baju nya Sophia yg udh tdk terpakai ,kebetulan anak aku cewe, Febuari mau lahiran tapi belum bisa beli apa"" kak",kak baju nya sophia pakai anak cewek febuari lahir beli kak,"['kak', 'baju', 'nya', 'sophia', 'pakai', 'anak', 'cewek', 'febuari', 'lahir', 'beli', 'kak']",positif,4
 728,2024,Lucu2 ya.. tpi alangkah baik nya baju bayi jangan banyak2 soalnya gak kepake lama ????,luculucu ya alangkah nya baju bayi banyakbanyak kepake lipat tangan wajah senyum dengan mata bahagia,"['luculucu', 'ya', 'alangkah', 'nya', 'baju', 'bayi', 'banyakbanyak', 'kepake', 'lipat', 'tangan', 'wajah', 'senyum', 'dengan', 'mata', 'bahagia']",positif,4
@@ -512,9 +505,7 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 738,2024,"Ya wajar lah diperlakuin kayak ratu, emang valuenya dia begitu. Setimpal sama jeds. Sekelas remah rengginang pengen diperlakuin kayak ratu padahal emang males aja ????",ya wajar diperlakuin kayak ratu valuenya timpal jeds kelas remah rengginang pengin diperlakuin kayak ratu malas tertawa terbahakbahak tertawa terbahakbahak,"['ya', 'wajar', 'diperlakuin', 'kayak', 'ratu', 'valuenya', 'timpal', 'jeds', 'kelas', 'remah', 'rengginang', 'pengin', 'diperlakuin', 'kayak', 'ratu', 'malas', 'tertawa', 'terbahakbahak', 'tertawa', 'terbahakbahak']",positif,4
 740,2024,Salfok bawang perai ny premium gaess lgsg dr kemasan????,salah fokus bawang perai nya premium gaes langsung kemas wajah dengan mulut buka wajah dengan mulut buka,"['salah', 'fokus', 'bawang', 'perai', 'nya', 'premium', 'gaes', 'langsung', 'kemas', 'wajah', 'dengan', 'mulut', 'buka', 'wajah', 'dengan', 'mulut', 'buka']",positif,4
 741,2024,Mau kaka ??,kakak angkat tangan,"['kakak', 'angkat', 'tangan']",positif,4
-742,2024,Paket lengkap kak ???,paket lengkap kak hati merah,"['paket', 'lengkap', 'kak', 'hati', 'merah']",positif,4
 743,2024,Kak mau angpau dong peliss,kak angpau pel,"['kak', 'angpau', 'pel']",positif,4
-744,2024,Mau dong 1 ini nomor dana 08217623663,nomor dana,"['nomor', 'dana']",positif,4
 745,2024,Bismillah THR buat ku kak @siscakohl,bismillah thr ku kak,"['bismillah', 'thr', 'ku', 'kak']",netral,4
 746,2024,Bismillah dapat,bismillah,['bismillah'],netral,4
 747,2024,Semoga rezeki,moga rezeki,"['moga', 'rezeki']",positif,4
@@ -522,7 +513,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 749,2024,DEDEK???? SEHAT SEHAT yaaaaa,adek wajah senyum lebar mata hati wajah senyum lebar mata hati sehat sehat ya,"['adek', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'sehat', 'sehat', 'ya']",positif,4
 751,2024,wangi duit pasti,wangi duit,"['wangi', 'duit']",positif,4
 752,2024,Calon top satu panny ini mah??,calon top panny mah wajah gembira urai air mata,"['calon', 'top', 'panny', 'mah', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,4
-754,2024,Justin buset itu anak biar kepalanya ngangkat duluuuuu napaaa ????????,justin buset anak biar kepala ngangkat wajah lelah wajah lelah wajah lelah wajah lelah,"['justin', 'buset', 'anak', 'biar', 'kepala', 'ngangkat', 'wajah', 'lelah', 'wajah', 'lelah', 'wajah', 'lelah', 'wajah', 'lelah']",positif,4
 755,2024,Baby sophiaaaaa??????,baby sophia hati merah hati merah,"['baby', 'sophia', 'hati', 'merah', 'hati', 'merah']",positif,4
 756,2024,Miripp sisca bangett??,sisca banget angkat tangan,"['sisca', 'banget', 'angkat', 'tangan']",netral,4
 757,2024,ketawa sophia ketawa karir??????,ketawa sophia ketawa karir wajah menang keras tangan jepit warna kulit cerah,"['ketawa', 'sophia', 'ketawa', 'karir', 'wajah', 'menang', 'keras', 'tangan', 'jepit', 'warna', 'kulit', 'cerah']",positif,4
@@ -557,13 +547,11 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 794,2020,Topping emas dong kak gue wkwkwk,topping emas kak gue wkwkwk,"['topping', 'emas', 'kak', 'gue', 'wkwkwk']",positif,3
 795,2020,dia bilang modal 5 rb terus mari kita coba??? ????????,bilang modal ribu mari coba,"['bilang', 'modal', 'ribu', 'mari', 'coba']",positif,3
 796,2020,Video saat nada suara backsound diubah malah jadi aneh,video nada suara backsound ubah aneh,"['video', 'nada', 'suara', 'backsound', 'ubah', 'aneh']",negatif,3
-797,2020,Ka ini akun fanbase baru? berkunjung dong ke akun ini???,kak akun fanbase kunjung akun,"['kak', 'akun', 'fanbase', 'kunjung', 'akun']",positif,3
 798,2020,Terima kasih kak sudah tag kita! ??,terima kasih kak tag,"['terima', 'kasih', 'kak', 'tag']",positif,3
 801,2020,Angkat aku jadi adek mu,angkat adek mu,"['angkat', 'adek', 'mu']",positif,3
 802,2020,kepoin ig kami yuk?,kepo ig yuk,"['kepo', 'ig', 'yuk']",netral,3
 803,2020,Kak tutor bikin brownies tapi simpel banget dan Pake cocolatos dongg,kak tutor bikin brownies simpel banget pakai cocolatos,"['kak', 'tutor', 'bikin', 'brownies', 'simpel', 'banget', 'pakai', 'cocolatos']",netral,3
 804,2020,Minta dong takarannya hyung,takar hyung,"['takar', 'hyung']",positif,3
-805,2020,Takarannya brp kak.. ?,takar kak,"['takar', 'kak']",positif,3
 806,2020,Takarannya dong kakk,takar kak,"['takar', 'kak']",netral,3
 807,2020,"Kak, sama takarannya donk?",kak takar,"['kak', 'takar']",netral,3
 808,2020,Salut gue walaupun anak sultan mereka jago masak,salut gue anak sultan jago masak,"['salut', 'gue', 'anak', 'sultan', 'jago', 'masak']",positif,3
@@ -615,7 +603,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 888,2021,Sisca sekali makan bisa bayar uang kuliah gua 2 semester ??,sisca makan bayar uang kuliah gua semester tertawa terbahakbahak,"['sisca', 'makan', 'bayar', 'uang', 'kuliah', 'gua', 'semester', 'tertawa', 'terbahakbahak']",positif,3
 889,2021,Coba eskrim nasi uduk,coba eskrim nasi uduk,"['coba', 'eskrim', 'nasi', 'uduk']",positif,3
 890,2021,"Daging 6,5jt tanpa micin, gktw dimana nikmatnya :( #generasimicin",daging jt micin gktw mana nikmat,"['daging', 'jt', 'micin', 'gktw', 'mana', 'nikmat']",positif,3
-891,2021,Gusti teuing??,gusti teuing wajah gembira urai air mata,"['gusti', 'teuing', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,3
 892,2021,"Salut sama sisca, pinter masakk banyak makanannn?????? pinterr, tau cara ngolahnya dll",salut sisca pintar masak makan tepuk tangan tepuk tangan tepuk tangan pintar tau ngolahnya,"['salut', 'sisca', 'pintar', 'masak', 'makan', 'tepuk', 'tangan', 'tepuk', 'tangan', 'tepuk', 'tangan', 'pintar', 'tau', 'ngolahnya']",positif,3
 894,2021,Semenjak ada siska aku tau semua harga makanan yang aneh" wkwk,semenjak siska tau harga makan aneh wkwk,"['semenjak', 'siska', 'tau', 'harga', 'makan', 'aneh', 'wkwk']",positif,3
 895,2021,"Kak Siska coba beli king krab makanan ituh jug termasuk makanan sultan loh kak harganya mungkin 6,500.000",kak siska coba beli king krab makan jug makan sultan loh kak harga,"['kak', 'siska', 'coba', 'beli', 'king', 'krab', 'makan', 'jug', 'makan', 'sultan', 'loh', 'kak', 'harga']",positif,3
@@ -623,7 +610,7 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 903,2021,Aku taunya daging wahyu ??,tau daging wahyu wajah gembira urai air mata,"['tau', 'daging', 'wahyu', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,3
 905,2021,apa mereka bahagia ?,bahagia,['bahagia'],positif,3
 906,2021,Gege @novitayzm @ririesta @nikenopr ade nya mirip si inong ga sih??? Wkwkwk.. @indahrahmisari,gege adek nya sih inong sih wkwkwk,"['gege', 'adek', 'nya', 'sih', 'inong', 'sih', 'wkwkwk']",netral,3
-907,2021,Hahaha... knpa musti sebutin harga ya ..... BUSYEEED DAH,hahaha musti sebutin harga ya busyeed deh,"['hahaha', 'musti', 'sebutin', 'harga', 'ya', 'busyeed', 'deh']",positif,3
+907,2021,Hahaha... knpa musti sebutin harga ya ..... BUSYEEED DAH,hahaha musti sebutin harga ya busyeed deh,"['hahaha', 'musti', 'sebutin', 'harga', 'ya', 'busyeed', 'deh']",negatif,3
 908,2022,Telaten banget ??,telaten banget wajah dengan mulut buka,"['telaten', 'banget', 'wajah', 'dengan', 'mulut', 'buka']",positif,3
 910,2022,Sisca sehat? Ini bukan siscaa ini pasti kloningannya,sisca sehat sisca kloning,"['sisca', 'sehat', 'sisca', 'kloning']",positif,3
 912,2022,Siska ga ketawakah bikin konten gini ??,siska ketawa bikin konten wajah gembira urai air mata,"['siska', 'ketawa', 'bikin', 'konten', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,3
@@ -660,51 +647,27 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 950,2022,Mama ny Sophia bagus bgt main ny??,mama nya sophia bagus banget main nya wajah senyum dengan hati,"['mama', 'nya', 'sophia', 'bagus', 'banget', 'main', 'nya', 'wajah', 'senyum', 'dengan', 'hati']",positif,3
 952,2022,kenapa pas sama Sisca jadi keren banget,pas sisca keren banget,"['pas', 'sisca', 'keren', 'banget']",positif,3
 953,2022,WOY JAGO BGT,woy jago banget,"['woy', 'jago', 'banget']",positif,3
-958,2022,Angkat aku jadi adik mu sis,angkat adik mu sis,"['angkat', 'adik', 'mu', 'sis']",positif,3
 959,2022,Berasa lagi liat jesica ??,asa lihat jesica wajah menang,"['asa', 'lihat', 'jesica', 'wajah', 'menang']",positif,3
 960,2022,Full power mari kita coba??,ful power mari coba wajah gembira urai air mata,"['ful', 'power', 'mari', 'coba', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,3
-961,2022,Full power ????,ful power wajah terlalu lelah tertawa terbahakbahak,"['ful', 'power', 'wajah', 'terlalu', 'lelah', 'tertawa', 'terbahakbahak']",positif,3
-962,2022,Harusnya bng jess nya pas lagi botak,bang jes nya pas botak,"['bang', 'jes', 'nya', 'pas', 'botak']",positif,3
-963,2022,"Adain lagi eventnya kak, aku pas itu belum main ml??",ada eventnya kak pas main ml wajah menang,"['ada', 'eventnya', 'kak', 'pas', 'main', 'ml', 'wajah', 'menang']",positif,3
-964,2022,Diamond nya cuk,diamond nya cuk,"['diamond', 'nya', 'cuk']",positif,3
-965,2022,Aku pake emot ini pas kill pertama,pakai emot pas kil,"['pakai', 'emot', 'pas', 'kil']",positif,3
 966,2022,KAK LUCUU YALLAH??????,kak lucu yallah hati merah hati merah,"['kak', 'lucu', 'yallah', 'hati', 'merah', 'hati', 'merah']",positif,3
-967,2022,Harus nya pas wedding cukur botak dulu bang jess,nya pas wedding cukur botak bang jes,"['nya', 'pas', 'wedding', 'cukur', 'botak', 'bang', 'jes']",positif,3
-968,2022,"Pngn sebagai Gay nikah di Gereja, Amin ?? setia sma 1 pasangan, bkn lebih.",pengin gay nikah gereja amin pelangi setia pasang,"['pengin', 'gay', 'nikah', 'gereja', 'amin', 'pelangi', 'setia', 'pasang']",positif,3
-969,2023,NT bang jess wkwkwk,bang jes wkwkwk,"['bang', 'jes', 'wkwkwk']",positif,3
-970,2023,Semoga beruntung,moga untung,"['moga', 'untung']",positif,3
-971,2023,Smga aw beruntung,moga aw untung,"['moga', 'aw', 'untung']",positif,3
 973,2023,Skrg ka sisca mirip guru BK gua:),kak sisca guru bk gua,"['kak', 'sisca', 'guru', 'bk', 'gua']",netral,3
-974,2023,Semua teman Ragil bersemangat,teman ragil semangat,"['teman', 'ragil', 'semangat']",positif,3
-977,2023,Bissmillah semoga beruntung dalat hp,bissmillah moga untung dalat hp,"['bissmillah', 'moga', 'untung', 'dalat', 'hp']",positif,3
-978,2023,Aahhh seru banget liatnya,aah seru banget lihat,"['aah', 'seru', 'banget', 'lihat']",positif,3
-979,2023,kak sis mau lahiran di Korea ya..,kak sis lahir korea ya,"['kak', 'sis', 'lahir', 'korea', 'ya']",positif,3
-980,2023,kebetulan aku tinggal dikorea de~ coba deh ke #?????ada saunanya seger juga wlw lagi musim panas gini pake anduk2nya gtu dirambutnya kayanya lucu ^^ untuk kaliam berdua ^^,tinggal dikorea deh coba deh  sauna segar wlw musim panas pakai anduknya rambut kaya lucu kaliam dua,"['tinggal', 'dikorea', 'deh', 'coba', 'deh', 'sauna', 'segar', 'wlw', 'musim', 'panas', 'pakai', 'anduknya', 'rambut', 'kaya', 'lucu', 'kaliam', 'dua']",positif,3
 981,2023,Mantap ????,mantap wajah senyum lebar mata hati wajah senyum lebar mata hati,"['mantap', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,3
 982,2023,Burger daging wahyu a5 ??,burger daging wahyu a wajah menang,"['burger', 'daging', 'wahyu', 'a', 'wajah', 'menang']",netral,3
 983,2023,Itu ada uang dollar ka enak banget ??,uang dollar kak enak banget wajah gembira,"['uang', 'dollar', 'kak', 'enak', 'banget', 'wajah', 'gembira']",netral,3
 984,2023,Sehat selalu ka sisca bang jess,sehat kak sisca bang jes,"['sehat', 'kak', 'sisca', 'bang', 'jes']",positif,3
 985,2023,Pasangan favorit ??,pasang favorit wajah senyum lebar mata hati,"['pasang', 'favorit', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,3
 986,2023,Bhgia sllu,bahagia,['bahagia'],positif,3
-987,2023,Ternyata loncatnya jauh jg ya. Ngagetin wkwkwk,loncat ya ngagetin wkwkwk,"['loncat', 'ya', 'ngagetin', 'wkwkwk']",positif,3
 989,2023,Sehat selalu yah kakak,sehat ya kakak,"['sehat', 'ya', 'kakak']",positif,3
 990,2023,Akhirnya baju anakku ada yg samaan sama shopia juga????,baju anak sama shopia wajah gembira urai air mata wajah gembira urai air mata,"['baju', 'anak', 'sama', 'shopia', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,3
 991,2023,Semoga sehat selalu ??,moga sehat wajah senyum lebar mata hati,"['moga', 'sehat', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,3
 992,2023,Sama kopernya??????,koper wajah gembira dengan mata bahagia wajah senyum lebar mata hati wajah senyum dengan hati,"['koper', 'wajah', 'gembira', 'dengan', 'mata', 'bahagia', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'dengan', 'hati']",positif,3
-993,2023,Waaaawwwww ??????,wow tepuk tangan tepuk tangan tepuk tangan,"['wow', 'tepuk', 'tangan', 'tepuk', 'tangan', 'tepuk', 'tangan']",positif,3
 994,2023,The real uang kaget ??,the real uang kaget tepuk tangan,"['the', 'real', 'uang', 'kaget', 'tepuk', 'tangan']",positif,3
 995,2023,Mau dong buat biaya sekolah,biaya sekolah,"['biaya', 'sekolah']",positif,3
 996,2023,Semangat kk,semangat,['semangat'],positif,3
-997,2023,Kalau emang ada rejeki nya aku mau ambil buat biaya operasi bapa aku .amin Allahhuma amin,rejeki nya ambil biaya operasi bapa amin allahhuma amin,"['rejeki', 'nya', 'ambil', 'biaya', 'operasi', 'bapa', 'amin', 'allahhuma', 'amin']",positif,3
 998,2023,Waw langsung kesiti oy,wow langsung sit oy,"['wow', 'langsung', 'sit', 'oy']",positif,3
 1004,2023,gemes bgt " ih ayang kenapa?" kesabarannya setebel uangnya??,gemas banget ih ayang sabar setebel uang wajah menang,"['gemas', 'banget', 'ih', 'ayang', 'sabar', 'setebel', 'uang', 'wajah', 'menang']",positif,3
-1005,2023,Lahir jam 8,lahir jam,"['lahir', 'jam']",positif,3
 1008,2023,Tidak ada yg tau hanya Tuhan yang tau,tau tuhan tau,"['tau', 'tuhan', 'tau']",positif,3
 1009,2023,Sehat sllu y sis,sehat ya sis,"['sehat', 'ya', 'sis']",positif,3
-1010,2023,welcome melek2 club koh ??,welcome melek club koh wajah gembira urai air mata,"['welcome', 'melek', 'club', 'koh', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,3
-1011,2023,Wes di adzan in a ?,wes adzan a,"['wes', 'adzan', 'a']",positif,3
-1012,2023,"baru lahir, hoki seumur hidup udh kepake.",lahir hoki umur hidup kepake,"['lahir', 'hoki', 'umur', 'hidup', 'kepake']",positif,3
-1013,2023,Ulang tahun kita sama yh baby shophia ??,ulang ya baby shophia tepuk tangan,"['ulang', 'ya', 'baby', 'shophia', 'tepuk', 'tangan']",positif,3
 1015,2023,"Aaaa gemes banget sama shopiaa maasyaallah??. Semoga lekas membaik recoverynya kak Sisca, semangat koh jess",a gemas banget shopia maasyaallah wajah senyum lebar mata hati moga lekas baik recoverynya kak sisca semangat koh jes,"['a', 'gemas', 'banget', 'shopia', 'maasyaallah', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'moga', 'lekas', 'baik', 'recoverynya', 'kak', 'sisca', 'semangat', 'koh', 'jes']",positif,3
 1016,2023,Lchu bgt sch qm sophia?????????,lchu banget sch sophia hati merah hati merah hati merah,"['lchu', 'banget', 'sch', 'sophia', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,3
 1017,2023,Iiii lahirnyaa barengan sama ulang tahun kuuu??????,i lahir bareng ulang ku hati cokelat hati cokelat hati cokelat,"['i', 'lahir', 'bareng', 'ulang', 'ku', 'hati', 'cokelat', 'hati', 'cokelat', 'hati', 'cokelat']",positif,3
@@ -729,7 +692,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1045,2024,Lobster yes and no,lobster yes and no,"['lobster', 'yes', 'and', 'no']",positif,3
 1046,2024,Sisca khol jago basaha inggris nya ya ????,sisca khol jago basaha inggris nya ya wajah senyum lebar mata hati tepuk tangan,"['sisca', 'khol', 'jago', 'basaha', 'inggris', 'nya', 'ya', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'tepuk', 'tangan']",positif,3
 1047,2024,Woww ur English is just incredible ?????????,wow ur english is just incredible wajah senyum lebar mata hati tepuk tangan api hati merah,"['wow', 'ur', 'english', 'is', 'just', 'incredible', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'tepuk', 'tangan', 'api', 'hati', 'merah']",positif,3
-1050,2024,Bayi Mahal ??????,bayi mahal api wajah dengan mulut buka angkat tangan,"['bayi', 'mahal', 'api', 'wajah', 'dengan', 'mulut', 'buka', 'angkat', 'tangan']",positif,3
 1051,2024,"perasaan baru kemarin deh baru lahir, sekarang udah gede ajaa, tambah pinter ya cantik???",asa kemarin deh lahir gede pintar ya cantik hati merah,"['asa', 'kemarin', 'deh', 'lahir', 'gede', 'pintar', 'ya', 'cantik', 'hati', 'merah']",positif,3
 1052,2024,So cute??,sok cute wajah senyum lebar mata hati,"['sok', 'cute', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,3
 1055,2024,"Emak lu Sisca Kohl, bapa lu Jess no limit shopiaaaa",emak lu sisca kohl bapa lu jes no limit shopia,"['emak', 'lu', 'sisca', 'kohl', 'bapa', 'lu', 'jes', 'no', 'limit', 'shopia']",positif,3
@@ -742,40 +704,30 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1063,2024,sophia suka nyengir lucuu bangett,sophia suka sengir lucu banget,"['sophia', 'suka', 'sengir', 'lucu', 'banget']",positif,3
 1064,2024,masya allah pipi gemoy ????,masya allah pipi gemoy wajah senyum lebar mata hati wajah senyum lebar mata hati,"['masya', 'allah', 'pipi', 'gemoy', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,3
 1065,2024,Sophia ?????????,sophia hati merah hati merah hati merah,"['sophia', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,3
-1066,2024,Bocil nya pengen gw jual ????,bocil nya pengin gue jual wajah lelah wajah lelah,"['bocil', 'nya', 'pengin', 'gue', 'jual', 'wajah', 'lelah', 'wajah', 'lelah']",positif,3
 1067,2024,lucu bet pas pala botaknya di elus2 ??,lucu banget pas kepala botak eluselus wajah gembira urai air mata,"['lucu', 'banget', 'pas', 'kepala', 'botak', 'eluselus', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,3
 1068,2024,Jess No Limit versi cewek ?????????,jes no limit versi cewek hati merah hati merah hati merah,"['jes', 'no', 'limit', 'versi', 'cewek', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,3
 1070,2024,Ahh lucu bangeeettt ??????,ah lucu banget hati merah hati merah,"['ah', 'lucu', 'banget', 'hati', 'merah', 'hati', 'merah']",positif,3
 1071,2024,suara mamanya mirip pengisi suara dibabybus,suara mama isi suara dibabybus,"['suara', 'mama', 'isi', 'suara', 'dibabybus']",positif,3
 1072,2024,Sehat" terus yak,sehat ya,"['sehat', 'ya']",positif,3
-1073,2024,baju kita samaan pliss ????,baju sama plis wajah menang keras wajah menang keras,"['baju', 'sama', 'plis', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras']",positif,3
 1075,2024,Suka sama captionnya sisca ???,suka captionnya sisca hati merah,"['suka', 'captionnya', 'sisca', 'hati', 'merah']",positif,3
 1076,2024,Proud ??,proud dua hati,"['proud', 'dua', 'hati']",positif,3
 1077,2024,bau wangiiii copiiii??????,bau wangi cop wajah senyum lebar mata hati hati besar hati besar,"['bau', 'wangi', 'cop', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'hati', 'besar', 'hati', 'besar']",positif,3
 1078,2024,Ya Allah Sophiaaaaa lucuuuu sekali kamu naaal?????????,ya allah sophia lucu naal tangan jepit warna kulit cerah wajah menang keras hati merah,"['ya', 'allah', 'sophia', 'lucu', 'naal', 'tangan', 'jepit', 'warna', 'kulit', 'cerah', 'wajah', 'menang', 'keras', 'hati', 'merah']",positif,3
 1079,2024,cerdas bgtt Sophia mau baca buku dari kecil ????????,cerdas banget sophia baca buku wajah senyum lebar mata hati hati merah hati merah,"['cerdas', 'banget', 'sophia', 'baca', 'buku', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'hati', 'merah', 'hati', 'merah']",positif,3
-1080,2024,Udh bisa masuk kuliah ini??????,masuk kuliah wajah senyum lebar mata hati api api,"['masuk', 'kuliah', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'api', 'api']",positif,3
 1081,2024,Shoopiiaaa anak pinter?????????,shoopiia anak pintar hati merah hati merah hati merah,"['shoopiia', 'anak', 'pintar', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,3
 1082,2024,Nggak sabar nunggu dia bisa ngevlog sendiri ????,sabar tunggu ngevlog wajah menang keras jempol ke atas,"['sabar', 'tunggu', 'ngevlog', 'wajah', 'menang', 'keras', 'jempol', 'ke', 'atas']",positif,3
 1083,2024,shopiaa beli seblak yuk sama onty,shopia beli seblak yuk onty,"['shopia', 'beli', 'seblak', 'yuk', 'onty']",positif,3
-1084,2024,Bisa ngobrolin tentang peminjaman uang ini asik cair2;((((,ngobrolin pinjam uang asik cair,"['ngobrolin', 'pinjam', 'uang', 'asik', 'cair']",positif,3
 1086,2024,Lebih mirip jessica sih??,jessica sih wajah gembira dengan mata bahagia,"['jessica', 'sih', 'wajah', 'gembira', 'dengan', 'mata', 'bahagia']",netral,3
-1087,2024,Justin eta aya cenghil na huntu,justin eta aya cenghil nya huntu,"['justin', 'eta', 'aya', 'cenghil', 'nya', 'huntu']",positif,3
-1088,2024,Lil no limit?????????,lil no limit hati merah hati merah hati merah,"['lil', 'no', 'limit', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,3
 1089,2020,sisca gaada niatan buat kandang ayam modern gitu? nanti kontak2 ke aku biar aku bantu kenalin dan jelasin,sisca niat kandang ayam modern kontakkontak biar bantu kenal jelasin,"['sisca', 'niat', 'kandang', 'ayam', 'modern', 'kontakkontak', 'biar', 'bantu', 'kenal', 'jelasin']",netral,2
 1090,2020,diace hardware ni mesin 10 jt,diace hardware nih mesin juta,"['diace', 'hardware', 'nih', 'mesin', 'juta']",netral,2
 1091,2020,baiuh 55 jt,baiuh juta,"['baiuh', 'juta']",netral,2
 1094,2020,@hafizhmhmmd_17 400juta ?,juta,['juta'],netral,2
-1095,2020,Hello Kitty kak,hello kitty kak,"['hello', 'kitty', 'kak']",positif,2
 1096,2020,Di tempat ku martabak manis/ terang bulan,ku martabak manis terang,"['ku', 'martabak', 'manis', 'terang']",netral,2
 1097,2020,@zahraaqh saya tidak suka:),suka,['suka'],netral,2
 1100,2020,"@clara_caroline besok gue kirim ke rumah lu ya buat cobain. Mi sulthan loh itu, jauh belinya ?",besok gue kirim rumah lu ya coba mi sulthan loh beli,"['besok', 'gue', 'kirim', 'rumah', 'lu', 'ya', 'coba', 'mi', 'sulthan', 'loh', 'beli']",netral,2
 1104,2020,Gak suka tapi ko di makan,suka makan,"['suka', 'makan']",negatif,2
-1105,2020,Kenapa ga pake nasi???,pakai nasi,"['pakai', 'nasi']",positif,2
 1107,2020,"Kalo kami d Papua bilang terang bulan manis, bukan martabak..",kalo papua bilang terang manis martabak,"['kalo', 'papua', 'bilang', 'terang', 'manis', 'martabak']",netral,2
 1108,2020,Adek nya mau ngasih codet ?,adek nya asih codet,"['adek', 'nya', 'asih', 'codet']",negatif,2
-1109,2020,"nangis liat emas yg bisa di makan, kluarny ttep aja jd ??",menang lihat emas makan kluarny,"['menang', 'lihat', 'emas', 'makan', 'kluarny']",positif,2
-1110,2020,KK itu emas asli,emas asli,"['emas', 'asli']",positif,2
 1111,2020,kak adiknya umur brp??,kak adik umur,"['kak', 'adik', 'umur']",netral,2
 1113,2020,Apalah daya ku Pake garpu pop mie?,apa daya ku pakai garpu pop mie,"['apa', 'daya', 'ku', 'pakai', 'garpu', 'pop', 'mie']",netral,2
 1114,2020,Love you kaaa???,love you kak,"['love', 'you', 'kak']",positif,2
@@ -784,22 +736,14 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1117,2020,Yaaaa allah ituuu bnykkk bgtt sosis kanzlerr nyaaaaaa ???? udh kyk gudang,ya allah banget sosis kanzler nya kayak gudang,"['ya', 'allah', 'banget', 'sosis', 'kanzler', 'nya', 'kayak', 'gudang']",positif,2
 1118,2020,gw beli sosis kanzler 1 aja mikir? dulu. ini langsung borong?. yg mau ada di tempat gw banyak banget. Indomaret pasir angin gadog,gue beli sosis kanzler mikir langsung borong gue banget indomaret pasir angin gadog,"['gue', 'beli', 'sosis', 'kanzler', 'mikir', 'langsung', 'borong', 'gue', 'banget', 'indomaret', 'pasir', 'angin', 'gadog']",negatif,2
 1119,2020,Wahai Pecinta pretzel @akfinii_ ?,cinta pretzel,"['cinta', 'pretzel']",netral,2
-1120,2020,ini takaran air dan gulanya brp byk ya,takar air gula ya,"['takar', 'air', 'gula', 'ya']",positif,2
-1121,2020,Apa cm gw yg ga suka cinnamon ?,gue suka cinnamon,"['gue', 'suka', 'cinnamon']",positif,2
 1122,2020,"Emng merek Haan enak ?. Apalagi es krim nya, kak nanti bikin yg eskrim nya dong?",merek haan enak es krim nya kak bikin eskrim nya,"['merek', 'haan', 'enak', 'es', 'krim', 'nya', 'kak', 'bikin', 'eskrim', 'nya']",positif,2
 1124,2020,Wahh centong nasinya dari emas?? wahh emasnya bisa dimakan... ??,centong nasi emas emas makan,"['centong', 'nasi', 'emas', 'emas', 'makan']",positif,2
 1125,2020,Kak coba riveiu es krim rasa popcorn,kak coba riveiu es krim popcorn,"['kak', 'coba', 'riveiu', 'es', 'krim', 'popcorn']",positif,2
 1127,2020,dari centong nasinya aja udah waw ????,centong nasi wow,"['centong', 'nasi', 'wow']",positif,2
 1128,2020,ini kreatif sih! adenya cans bgt pdhl gpake mekap ap2 kolongmerat emg bedaah,kreatif sih adeknya cantik banget gpake mekap ap kolongmerat bedaah,"['kreatif', 'sih', 'adeknya', 'cantik', 'banget', 'gpake', 'mekap', 'ap', 'kolongmerat', 'bedaah']",positif,2
-1129,2021,Mari kita ngepet??,mari ngepet wajah gembira urai air mata,"['mari', 'ngepet', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,2
-1130,2021,KAK PUNYA DUIT 999 JUTA MILYARAN TRILIUN BERLIUN LIUN,kak duit juta milyaran triliun berliun liun,"['kak', 'duit', 'juta', 'milyaran', 'triliun', 'berliun', 'liun']",positif,2
-1131,2021,Kok pas di jilat ga di liatin ya??,pas jilat lihat ya wajah menang,"['pas', 'jilat', 'lihat', 'ya', 'wajah', 'menang']",positif,2
 1132,2021,Hanya ini yang bisa kita coba ??,coba wajah agak senyum,"['coba', 'wajah', 'agak', 'senyum']",positif,2
 1134,2021,Menghibur komenan kalian netijen ??,hibur komentar netijen api,"['hibur', 'komentar', 'netijen', 'api']",positif,2
 1135,2021,Baru kali ini suka sama kontennya,kali suka konten,"['kali', 'suka', 'konten']",positif,2
-1139,2021,Rikues eskrrim pete ya kaka biar nambah gokil,rikues eskrrim pete ya kakak biar tambah gila,"['rikues', 'eskrrim', 'pete', 'ya', 'kakak', 'biar', 'tambah', 'gila']",positif,2
-1142,2021,Uni pipipipipipioioi yoisal ... Lagu nya blaxk pink,uni pipipipipipioioi yoisal lagu nya blaxk pink,"['uni', 'pipipipipipioioi', 'yoisal', 'lagu', 'nya', 'blaxk', 'pink']",positif,2
-1143,2021,Tambahkan emas yang bisa di makan ?? ( dah lah ),tambah emas makan wajah gembira urai air mata deh,"['tambah', 'emas', 'makan', 'wajah', 'gembira', 'urai', 'air', 'mata', 'deh']",positif,2
 1144,2021,Hewan apaaan ituu?? gua merinding liat bentuk ny??,hewan wajah menang gua merinding lihat bentuk nya wajah menang,"['hewan', 'wajah', 'menang', 'gua', 'merinding', 'lihat', 'bentuk', 'nya', 'wajah', 'menang']",positif,2
 1145,2021,Ginjal gue nangis liat ini,ginjal gue menang lihat,"['ginjal', 'gue', 'menang', 'lihat']",positif,2
 1146,2021,Pernah nyobain tutut ga enak banget,coba tutut enak banget,"['coba', 'tutut', 'enak', 'banget']",positif,2
@@ -811,44 +755,34 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1156,2021,Es krim nasi goreng dong,es krim nasi goreng,"['es', 'krim', 'nasi', 'goreng']",positif,2
 1158,2021,SubhanaAllah...Kebayang rasanya Ceck??????,subhanaallah bayang ceck api wajah dengan mulut buka wajah gembira urai air mata,"['subhanaallah', 'bayang', 'ceck', 'api', 'wajah', 'dengan', 'mulut', 'buka', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,2
 1159,2021,beli nasi padang pas abis gajian doang ..keselek melihat ini??,beli nasi padang pas habis gaji doang keselek tidak lihat,"['beli', 'nasi', 'padang', 'pas', 'habis', 'gaji', 'doang', 'keselek', 'tidak', 'lihat']",positif,2
-1161,2021,Udah nyobain foiegras & ga suka. Trll lemak bgt rasanya. Tp wagyu steak & truffle itu emg enak bgt sih. Sisca buat jg konten sup sirip hiu doong ????,coba foiegras suka trl lemak banget wagyu steak truffle enak banget sih sisca konten sup sirip hiu wajah senyum lebar mata hati wajah senyum lebar mata hati,"['coba', 'foiegras', 'suka', 'trl', 'lemak', 'banget', 'wagyu', 'steak', 'truffle', 'enak', 'banget', 'sih', 'sisca', 'konten', 'sup', 'sirip', 'hiu', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,2
 1164,2021,jamur kuping aja lebih murah enak lagi,jamur kuping murah enak,"['jamur', 'kuping', 'murah', 'enak']",positif,2
 1166,2021,Akhirnya gak gemetar saat sisca bilang "Selamat Mencoba" ??,gemetar sisca bilang selamat coba wajah gembira urai air mata,"['gemetar', 'sisca', 'bilang', 'selamat', 'coba', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,2
 1167,2021,"JANGAN SAMPAI KANG GORENGAN LIAT INI, NANTI TRAFIC HARGA GORENGAN JADI NAIK ??",kang goreng lihat trafic harga goreng wajah terlalu lelah,"['kang', 'goreng', 'lihat', 'trafic', 'harga', 'goreng', 'wajah', 'terlalu', 'lelah']",positif,2
-1168,2021,Sebut saja nmnya bakwan ????,nama bakwan wajah gembira dengan mata bahagia wajah senyum lebar dan mejam mata,"['nama', 'bakwan', 'wajah', 'gembira', 'dengan', 'mata', 'bahagia', 'wajah', 'senyum', 'lebar', 'dan', 'mejam', 'mata']",positif,2
-1169,2021,"Aku jual melon ini kak cuss beli di akuu 2,4 juta ajahhh",jual melon kak cus beli juta,"['jual', 'melon', 'kak', 'cus', 'beli', 'juta']",positif,2
-1171,2021,manisnya seperti gula "bs lelehin gula alfamart pake air",manis gula lelehin gula alfamart pakai air,"['manis', 'gula', 'lelehin', 'gula', 'alfamart', 'pakai', 'air']",positif,2
 1179,2021,@ndho_x ?????? seneng ndelok sing aneh2??,wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata senang ndelok sing anehaneh wajah gembira urai air mata,"['wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'senang', 'ndelok', 'sing', 'anehaneh', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,2
-1182,2021,di panggang kakak masakannya jangan di goreng ( kolesterol ),panggang kakak masakan goreng kolesterol,"['panggang', 'kakak', 'masakan', 'goreng', 'kolesterol']",positif,2
 1184,2021,Biasa makan ati ayam di warung pecel aja udah bahagia,makan ati ayam warung pecel bahagia,"['makan', 'ati', 'ayam', 'warung', 'pecel', 'bahagia']",positif,2
 1186,2021,Chef juna said : hmm pleting kurang menarik,chef juna said hm pleting tarik,"['chef', 'juna', 'said', 'hm', 'pleting', 'tarik']",positif,2
 1187,2021,Menu itu akan berakhir di nasi sm telor doank di mangkok gw,menu nasi telor doang mangkok gue,"['menu', 'nasi', 'telor', 'doang', 'mangkok', 'gue']",positif,2
 1188,2021,Waduuh mulut & perut ndesoku gak sanggup liat daging yg msh merah gitu ????????????,waduuh mulut perut ndesoku sanggup lihat daging merah wajah dengan mulut buka wajah dengan mulut buka wajah dengan mulut buka wajah menang wajah menang wajah menang,"['waduuh', 'mulut', 'perut', 'ndesoku', 'sanggup', 'lihat', 'daging', 'merah', 'wajah', 'dengan', 'mulut', 'buka', 'wajah', 'dengan', 'mulut', 'buka', 'wajah', 'dengan', 'mulut', 'buka', 'wajah', 'menang', 'wajah', 'menang', 'wajah', 'menang']",positif,2
 1189,2021,"Cantik bngt kmu, bismillah PC spek dewa",cantik banget bismillah pc spek dewa,"['cantik', 'banget', 'bismillah', 'pc', 'spek', 'dewa']",netral,2
-1190,2021,Lambung aman.,lambung aman,"['lambung', 'aman']",positif,2
-1191,2021,"Kenapa begini, Liat ny ga nafsu??",lihat nya nafsu wajah menang,"['lihat', 'nya', 'nafsu', 'wajah', 'menang']",positif,2
-1192,2021,Kaya liat masakan giant??,kayak lihat masakan giant wajah menang,"['kayak', 'lihat', 'masakan', 'giant', 'wajah', 'menang']",positif,2
-1193,2021,Kamu teh sehat?????,teh sehat wajah menang wajah gembira urai air mata,"['teh', 'sehat', 'wajah', 'menang', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,2
-1196,2021,Ya allah astaghfirullah akhir zaman,ya allah astaghfirullah zaman,"['ya', 'allah', 'astaghfirullah', 'zaman']",positif,2
-1200,2021,Dengerin ya kalian kak sisca kohl bilang fu*** you,dengar ya kak sisca kohl bilang fu you,"['dengar', 'ya', 'kak', 'sisca', 'kohl', 'bilang', 'fu', 'you']",positif,2
+1191,2021,"Kenapa begini, Liat ny ga nafsu??",lihat nya nafsu wajah menang,"['lihat', 'nya', 'nafsu', 'wajah', 'menang']",negatif,2
+1192,2021,Kaya liat masakan giant??,kayak lihat masakan giant wajah menang,"['kayak', 'lihat', 'masakan', 'giant', 'wajah', 'menang']",negatif,2
+1193,2021,Kamu teh sehat?????,teh sehat wajah menang wajah gembira urai air mata,"['teh', 'sehat', 'wajah', 'menang', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,2
+1196,2021,Ya allah astaghfirullah akhir zaman,ya allah astaghfirullah zaman,"['ya', 'allah', 'astaghfirullah', 'zaman']",negatif,2
+1200,2021,Dengerin ya kalian kak sisca kohl bilang fu*** you,dengar ya kak sisca kohl bilang fu you,"['dengar', 'ya', 'kak', 'sisca', 'kohl', 'bilang', 'fu', 'you']",negatif,2
 1204,2021,Kok blm ade video habis dy masak langsung du makan sendiri??,adek video habis masak langsung du makan wajah gembira urai air mata,"['adek', 'video', 'habis', 'masak', 'langsung', 'du', 'makan', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,2
 1205,2021,"seperti opor ayam, tapi dingin",opor ayam dingin,"['opor', 'ayam', 'dingin']",positif,2
 1208,2022,APA LAGI NASI UDUK YANG 5rb anjiirrr,nasi uduk rb anjiir,"['nasi', 'uduk', 'rb', 'anjiir']",positif,2
 1209,2022,ini bakwa termahal kali yaa. ahhh pasti enak bgt,bakwa mahal kali ya ah enak banget,"['bakwa', 'mahal', 'kali', 'ya', 'ah', 'enak', 'banget']",positif,2
 1210,2022,Maaf ... lambung saya gak cocok makan yang beginian,maaf lambung cocok makan,"['maaf', 'lambung', 'cocok', 'makan']",positif,2
-1211,2022,"Eh buset, otak ge ngeleg mendadak, ??",eh buset otak ge ngeleg dadak wajah gembira urai air mata,"['eh', 'buset', 'otak', 'ge', 'ngeleg', 'dadak', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,2
+1211,2022,"Eh buset, otak ge ngeleg mendadak, ??",eh buset otak ge ngeleg dadak wajah gembira urai air mata,"['eh', 'buset', 'otak', 'ge', 'ngeleg', 'dadak', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,2
 1212,2022,Pasti semua makanannya bangga di makan Sisca khol??,makan bangga makan sisca khol wajah menang,"['makan', 'bangga', 'makan', 'sisca', 'khol', 'wajah', 'menang']",positif,2
 1213,2022,Mie sakura ga ada lawan emang ??,mie sakura lawan tertawa terbahakbahak,"['mie', 'sakura', 'lawan', 'tertawa', 'terbahakbahak']",positif,2
 1214,2022,Mie sakura ????????????,mie sakura bagan tingkat bagan tingkat bagan tingkat bagan tingkat wajah gembira urai air mata wajah gembira urai air mata,"['mie', 'sakura', 'bagan', 'tingkat', 'bagan', 'tingkat', 'bagan', 'tingkat', 'bagan', 'tingkat', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,2
 1215,2022,Kak aku suka makan semuanya,kak suka makan,"['kak', 'suka', 'makan']",positif,2
 1216,2022,Alhamdulillah makanan mbak sisca ada yg bisa kebeli juga ??,alhamdulillah makan mbak sisca kebel wajah senyum lebar dan mata tutup,"['alhamdulillah', 'makan', 'mbak', 'sisca', 'kebel', 'wajah', 'senyum', 'lebar', 'dan', 'mata', 'tutup']",positif,2
-1217,2022,OMG ITU MAKANAN YG TDK SEHAT SEMUAA??,omg makan sehat wajah menang,"['omg', 'makan', 'sehat', 'wajah', 'menang']",positif,2
+1217,2022,OMG ITU MAKANAN YG TDK SEHAT SEMUAA??,omg makan sehat wajah menang,"['omg', 'makan', 'sehat', 'wajah', 'menang']",negatif,2
 1219,2022,Jangan lupa baca bismilah kak??,lupa baca bismilah kak api,"['lupa', 'baca', 'bismilah', 'kak', 'api']",netral,2
 1220,2022,Ahahah mie sakura emg best??,ahahah mie sakura best api,"['ahahah', 'mie', 'sakura', 'best', 'api']",positif,2
-1221,2022,"Di sekolah dia dulu, ada makanan2 itu gak ya mangkal di depan sekolah? Atau di kantinnya?",sekolah makan ya mangkal sekolah kantin,"['sekolah', 'makan', 'ya', 'mangkal', 'sekolah', 'kantin']",positif,2
-1222,2022,Gimana Jess punya Kekayaan mkn 50 M dalam Rumah dan mobil dan Pendapatan 500juta sebulan dr You.tube ?.,jes kaya rumah mobil dapat juta bulan youtube,"['jes', 'kaya', 'rumah', 'mobil', 'dapat', 'juta', 'bulan', 'youtube']",positif,2
-1223,2022,siapa yg cuci baju?,cuci baju,"['cuci', 'baju']",positif,2
-1225,2022,Dingin ??,dingin wajah kecewa namun lega,"['dingin', 'wajah', 'kecewa', 'namun', 'lega']",positif,2
 1226,2022,"AGAK GOBLOK YA CINTANYA AYANG YAA , tp yaudadeh lucu sih mereka no debat bgst gua ngaku :)",goblok ya cinta ayang ya yaudadeh lucu sih no debat bgst gua aku,"['goblok', 'ya', 'cinta', 'ayang', 'ya', 'yaudadeh', 'lucu', 'sih', 'no', 'debat', 'bgst', 'gua', 'aku']",positif,2
 1227,2022,Soooo sweet ??,sok sweet wajah senyum lebar mata hati,"['sok', 'sweet', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,2
 1228,2022,So sweet ahh??,sok sweet ah wajah senyum lebar mata hati,"['sok', 'sweet', 'ah', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,2
@@ -879,8 +813,6 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1259,2022,bikin konten yg bermutu,bikin konten mutu,"['bikin', 'konten', 'mutu']",positif,2
 1260,2022,Baju mewah,baju mewah,"['baju', 'mewah']",positif,2
 1262,2022,GEMESH BGT YAALLAH WKWKWK??,gemesh banget yaallah wkwkwk wajah gembira urai air mata,"['gemesh', 'banget', 'yaallah', 'wkwkwk', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,2
-1266,2022,Nama musik yang pertama apa ya,nama musik ya,"['nama', 'musik', 'ya']",positif,2
-1267,2022,Tap ??? 1000x ?? thank you,tap hati merah x wajah peluk thank you,"['tap', 'hati', 'merah', 'x', 'wajah', 'peluk', 'thank', 'you']",positif,2
 1268,2022,gue sukak gaya lo bg,gue suka gaya lo bang,"['gue', 'suka', 'gaya', 'lo', 'bang']",positif,2
 1269,2022,Pantes main fannynya jago??,main fannynya jago wajah menang,"['main', 'fannynya', 'jago', 'wajah', 'menang']",positif,2
 1271,2022,Lagu yang ke 2 apa,lagu,['lagu'],netral,2
@@ -949,11 +881,7 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1349,2024,"Boleh kirim ke aku satu Kak, bakal diterima banget beneran",kirim kak terima banget benar,"['kirim', 'kak', 'terima', 'banget', 'benar']",positif,2
 1350,2024,"""Aku suka banget""",suka banget,"['suka', 'banget']",positif,2
 1353,2024,I even need this type of girl In my Future when I will be successful And she treats me like this ??,i even need this type of girl my future when i wil be successful and she treats me like this hati besar,"['i', 'even', 'need', 'this', 'type', 'of', 'girl', 'my', 'future', 'when', 'i', 'wil', 'be', 'successful', 'and', 'she', 'treats', 'me', 'like', 'this', 'hati', 'besar']",positif,2
-1356,2024,Dia mah main game hasilin duit,mah main game hasilin duit,"['mah', 'main', 'game', 'hasilin', 'duit']",positif,2
-1357,2024,Dia pernah makan nasi megono ga ya?,makan nasi megono ya,"['makan', 'nasi', 'megono', 'ya']",positif,2
-1358,2024,Nasgor seratus jutaaa,nasgor ratus juta,"['nasgor', 'ratus', 'juta']",positif,2
-1359,2024,Akun asli kh kak?,akun asli kah kak,"['akun', 'asli', 'kah', 'kak']",positif,2
-1360,2024,Gk percaya klu blm di tf,percaya tf,"['percaya', 'tf']",positif,2
+1360,2024,Gk percaya klu blm di tf,percaya tf,"['percaya', 'tf']",negatif,2
 1361,2024,????????? Amanto hadir,hati merah hati merah hati merah amanto hadir,"['hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'amanto', 'hadir']",positif,2
 1364,2024,"Kalo kalian mau tahu,dia la orang yang pertama memiliki bayi didalam dunia ini..jadi dia akan memberikan tutor dan memberitahu apa yang akan bayi lakukan ketika berada di umur berapa bulan.....JADI SEKIAN TERIMA KASIH",kalo orang milik bayi dalam dunia tutor memberitahu bayi laku umur sekian terima kasih,"['kalo', 'orang', 'milik', 'bayi', 'dalam', 'dunia', 'tutor', 'memberitahu', 'bayi', 'laku', 'umur', 'sekian', 'terima', 'kasih']",positif,2
 1366,2024,Gw kalo makan lobster bukan pake mozzarela tapi pake nasi,gue kalo makan lobster pakai mozzarela pakai nasi,"['gue', 'kalo', 'makan', 'lobster', 'pakai', 'mozzarela', 'pakai', 'nasi']",positif,2
@@ -1062,32 +990,16 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1514,2021,Bagi hp buat daring kak....biar bisa ngerjain tugas sekolah tepat waktu. Biar g pinjem2 kalo ada tugas ????,hp daring kak biar ngerjain tugas sekolah biar pinjem kalo tugas lipat tangan lipat tangan,"['hp', 'daring', 'kak', 'biar', 'ngerjain', 'tugas', 'sekolah', 'biar', 'pinjem', 'kalo', 'tugas', 'lipat', 'tangan', 'lipat', 'tangan']",positif,1
 1517,2021,"Coba duriannya di kolak sama biji""nya enak dehh, kalau orang sunda nyebutnya Oblang ??",coba durian kolak biji nya enak deh orang sunda nyebutnya oblang wajah gembira urai air mata,"['coba', 'durian', 'kolak', 'biji', 'nya', 'enak', 'deh', 'orang', 'sunda', 'nyebutnya', 'oblang', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,1
 1518,2021,Jiwa kantongku meronta2,jiwa kantong ronta,"['jiwa', 'kantong', 'ronta']",positif,1
-1522,2021,Es krim daun pisang dong,es krim daun pisang,"['es', 'krim', 'daun', 'pisang']",positif,1
-1523,2021,Es krim ketoprak lah,es krim ketoprak,"['es', 'krim', 'ketoprak']",positif,1
-1525,2021,"Hah,nggk salah dengar nih es krim rasa nasi padang??",hah salah dengar nih es krim nasi padang wajah memelas,"['hah', 'salah', 'dengar', 'nih', 'es', 'krim', 'nasi', 'padang', 'wajah', 'memelas']",positif,1
-1527,2021,Coba masak jamur kecubung kak,coba masak jamur kecubung kak,"['coba', 'masak', 'jamur', 'kecubung', 'kak']",positif,1
-1528,2021,Cobain jamur matsutake dong kak,coba jamur matsutake kak,"['coba', 'jamur', 'matsutake', 'kak']",positif,1
-1529,2021,Jamur kuping pernah cobain gak kak sisca?,jamur kuping coba kak sisca,"['jamur', 'kuping', 'coba', 'kak', 'sisca']",positif,1
-1533,2021,Normal lah ni mah,normal nih mah,"['normal', 'nih', 'mah']",positif,1
-1535,2021,Seperti kraby petty warna milik Spongebob,kraby petty warna milik spongebob,"['kraby', 'petty', 'warna', 'milik', 'spongebob']",positif,1
-1536,2021,Ada yg pernah cobaa? Berhasill kah? Enakk gaa? Penasarann mau cobaa ????,coba hasil kah enak penasaran coba wajah gembira urai air mata wajah gembira urai air mata,"['coba', 'hasil', 'kah', 'enak', 'penasaran', 'coba', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,1
-1537,2021,Sisca kol masak kol??,sisca kol masak kol tepuk tangan,"['sisca', 'kol', 'masak', 'kol', 'tepuk', 'tangan']",positif,1
 1538,2021,Nah kalo yang ini kayanya bisa dicoba,kalo kaya coba,"['kalo', 'kaya', 'coba']",positif,1
 1539,2021,gw mah fokus ke adeknya akwowkwo,gue mah fokus adeknya akwowkwo,"['gue', 'mah', 'fokus', 'adeknya', 'akwowkwo']",positif,1
-1540,2021,Mukanya harus datar begitu ya ????,muka datar ya wajah gembira urai air mata wajah gembira urai air mata,"['muka', 'datar', 'ya', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,1
+1540,2021,Mukanya harus datar begitu ya ????,muka datar ya wajah gembira urai air mata wajah gembira urai air mata,"['muka', 'datar', 'ya', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,1
 1541,2021,Akhirnya gw bs nyoba mknan yg dy makan guya ..,gue coba mknan makan guya,"['gue', 'coba', 'mknan', 'makan', 'guya']",positif,1
 1542,2021,Semoga suatu saat bisa beli dan coba,moga beli coba,"['moga', 'beli', 'coba']",positif,1
 1543,2021,Ga kemahalan apa tuh sis,mahal tuh sis,"['mahal', 'tuh', 'sis']",positif,1
 1544,2021,Miss u ??? siscakohl,mis lu hati merah siscakohl,"['mis', 'lu', 'hati', 'merah', 'siscakohl']",positif,1
 1546,2021,Kita juga pengen cobain tapi kakak tau kan kalo sekarang bapa kita gaboleh jualan,pengin coba kakak tau kalo bapa gaboleh jual,"['pengin', 'coba', 'kakak', 'tau', 'kalo', 'bapa', 'gaboleh', 'jual']",positif,1
-1547,2021,bukan gak mau coba tapi misalnya gue gak mampu,coba gue,"['coba', 'gue']",positif,1
-1550,2021,Es krim piring chek???,es krim piring chek,"['es', 'krim', 'piring', 'chek']",positif,1
-1552,2021,eskrim jengkol nya check ..,eskrim jengkol nya check,"['eskrim', 'jengkol', 'nya', 'check']",positif,1
-1553,2021,besok bikin es krim karedok ya siscaa,besok bikin es krim karedok ya sisca,"['besok', 'bikin', 'es', 'krim', 'karedok', 'ya', 'sisca']",positif,1
-1554,2021,Sisca...kapan bikin es krim belacannya..,sisca bikin es krim belacan,"['sisca', 'bikin', 'es', 'krim', 'belacan']",positif,1
 1556,2021,Pepek enak tau??,pepek enak tau moa,"['pepek', 'enak', 'tau', 'moa']",negatif,1
-1557,2021,Gua sebagai org plmbg menangis liatnya??,gua orang plmbg menang lihat wajah menang keras,"['gua', 'orang', 'plmbg', 'menang', 'lihat', 'wajah', 'menang', 'keras']",positif,1
-1558,2021,Normal gk sih dia?,normal sih,"['normal', 'sih']",positif,1
+1558,2021,Normal gk sih dia?,normal sih,"['normal', 'sih']",negatif,1
 1559,2021,Buat es krim semur jengkol dong,es krim semur jengkol,"['es', 'krim', 'semur', 'jengkol']",positif,1
 1562,2021,Tinggal dipakein nasi aja udah kenyang????,tinggal dipakein nasi kenyang wajah gembira urai air mata wajah gembira urai air mata,"['tinggal', 'dipakein', 'nasi', 'kenyang', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,1
 1563,2021,Allahuakbar siscaaa....coba bikin eskrim ikan asin gih,allahuakbar sisca coba bikin eskrim ikan asin gih,"['allahuakbar', 'sisca', 'coba', 'bikin', 'eskrim', 'ikan', 'asin', 'gih']",positif,1
@@ -1105,10 +1017,7 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1585,2021,Gw kenalnya "keramg bukur",gue kenal keramg bukur,"['gue', 'kenal', 'keramg', 'bukur']",positif,1
 1586,2021,mencoba patakmu,coba patakmu,"['coba', 'patakmu']",positif,1
 1588,2021,Walaupun mahal tapi masuk akal lah ya,mahal masuk akal ya,"['mahal', 'masuk', 'akal', 'ya']",positif,1
-1591,2021,Mon maap sis itu darahnya masih merembes di piringnya ?? apa ga amis ya,mon maaf sis darah rembes piring wajah menang amis ya,"['mon', 'maaf', 'sis', 'darah', 'rembes', 'piring', 'wajah', 'menang', 'amis', 'ya']",positif,1
-1595,2021,Bikin es krim rasa uang,bikin es krim uang,"['bikin', 'es', 'krim', 'uang']",positif,1
-1596,2021,Coba buat es krim jengkol pasti endool ??,coba es krim jengkol endool wajah pikir,"['coba', 'es', 'krim', 'jengkol', 'endool', 'wajah', 'pikir']",positif,1
-1597,2021,nasii nya di bikin eskrim juga dong??,nasi nya bikin eskrim wajah menang,"['nasi', 'nya', 'bikin', 'eskrim', 'wajah', 'menang']",positif,1
+1591,2021,Mon maap sis itu darahnya masih merembes di piringnya ?? apa ga amis ya,mon maaf sis darah rembes piring wajah menang amis ya,"['mon', 'maaf', 'sis', 'darah', 'rembes', 'piring', 'wajah', 'menang', 'amis', 'ya']",negatif,1
 1599,2021,Wow enak banget,wow enak banget,"['wow', 'enak', 'banget']",positif,1
 1600,2021,Kaka mgomongnya lucu banget si hahaha,kakak mgomongnya lucu banget sih hahaha,"['kakak', 'mgomongnya', 'lucu', 'banget', 'sih', 'hahaha']",positif,1
 1604,2022,Baru ini ngiler liat Sisca kul masak??,ngiler lihat sisca kul masak wajah agak senyum,"['ngiler', 'lihat', 'sisca', 'kul', 'masak', 'wajah', 'agak', 'senyum']",positif,1
@@ -1118,36 +1027,22 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1608,2022,"""aku gunting dengan gunting"" ??",gunting gunting tepuk tangan,"['gunting', 'gunting', 'tepuk', 'tangan']",positif,1
 1609,2022,Kak cobain makan seblak dong,kak coba makan seblak,"['kak', 'coba', 'makan', 'seblak']",positif,1
 1612,2022,Sangat enak sekali,enak,['enak'],positif,1
-1615,2022,Es krim sasimi,es krim sasimi,"['es', 'krim', 'sasimi']",positif,1
-1617,2022,es krim mujaer dong,es krim mujaer,"['es', 'krim', 'mujaer']",positif,1
-1618,2022,Ka buat es cream rasa nasi goreng bisa ga ?,kak es cream nasi goreng,"['kak', 'es', 'cream', 'nasi', 'goreng']",positif,1
-1621,2022,Coba bkin ice cream dr ikan asin sis..,coba bikin ice cream ikan asin sis,"['coba', 'bikin', 'ice', 'cream', 'ikan', 'asin', 'sis']",positif,1
-1622,2022,Es krim ikan bandeng,es krim ikan bandeng,"['es', 'krim', 'ikan', 'bandeng']",positif,1
-1623,2022,"2,6 juta cuma jadi bakwaaaan??",juta bakwaan wajah menang keras,"['juta', 'bakwaan', 'wajah', 'menang', 'keras']",positif,1
-1624,2022,Um paracetamol est? muito bom???,um paracetamol est muito bom hati merah,"['um', 'paracetamol', 'est', 'muito', 'bom', 'hati', 'merah']",positif,1
-1626,2022,Menangis aku liatnya??,menang lihat wajah menang,"['menang', 'lihat', 'wajah', 'menang']",positif,1
-1627,2022,Udh pernah cobain percebes blm?,coba percebes,"['coba', 'percebes']",positif,1
-1628,2022,Uda gak heran,heran,['heran'],positif,1
+1615,2022,Es krim sasimi,es krim sasimi,"['es', 'krim', 'sasimi']",netral,1
+1617,2022,es krim mujaer dong,es krim mujaer,"['es', 'krim', 'mujaer']",netral,1
+1618,2022,Ka buat es cream rasa nasi goreng bisa ga ?,kak es cream nasi goreng,"['kak', 'es', 'cream', 'nasi', 'goreng']",netral,1
+1621,2022,Coba bkin ice cream dr ikan asin sis..,coba bikin ice cream ikan asin sis,"['coba', 'bikin', 'ice', 'cream', 'ikan', 'asin', 'sis']",netral,1
+1622,2022,Es krim ikan bandeng,es krim ikan bandeng,"['es', 'krim', 'ikan', 'bandeng']",netral,1
+1623,2022,"2,6 juta cuma jadi bakwaaaan??",juta bakwaan wajah menang keras,"['juta', 'bakwaan', 'wajah', 'menang', 'keras']",negatif,1
 1630,2022,percayalah itu ga akan dimakan sama dia ??,percaya makan wajah gembira urai air mata,"['percaya', 'makan', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,1
-1631,2022,Sekelas siscakohl juga suka mie sakura ternyata huhu??,kelas siscakohl suka mie sakura huhu wajah senyum lebar mata hati,"['kelas', 'siscakohl', 'suka', 'mie', 'sakura', 'huhu', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,1
-1634,2022,Ga ngerti dong level sultan Siska Kohl ngasih rate tertinggi buat mie sakuraa polosannn,erti level sultan siska kohl asih rate tinggi mie sakura polos,"['erti', 'level', 'sultan', 'siska', 'kohl', 'asih', 'rate', 'tinggi', 'mie', 'sakura', 'polos']",positif,1
-1635,2022,Ka Sisca makin cantik?????????,kak sisca cantik hati merah hati merah hati merah,"['kak', 'sisca', 'cantik', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,1
-1637,2022,SAKING SERINGNYA KLO MKN ITU WAGYU A6 SAMPE BLOM PRNH MKN MIE SAKURA SAMSEK ??,saking kalo wagyu a mie sakura samsek wajah agak senyum,"['saking', 'kalo', 'wagyu', 'a', 'mie', 'sakura', 'samsek', 'wajah', 'agak', 'senyum']",positif,1
-1638,2022,Menyeselkan baru kenal mie sakura,sel kenal mie sakura,"['sel', 'kenal', 'mie', 'sakura']",positif,1
 1639,2022,kesukaan aku semuaaa ??,suka wajah menang,"['suka', 'wajah', 'menang']",positif,1
-1640,2022,Mie sakura naek dah harga nya????,mie sakura deh harga nya wajah gembira urai air mata wajah gembira urai air mata,"['mie', 'sakura', 'deh', 'harga', 'nya', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,1
-1641,2022,Jajanan pd naik ga guys grgr ini?,jajan guys garagara,"['jajan', 'guys', 'garagara']",positif,1
-1644,2022,Kalo ini masih bisa dicoba,kalo coba,"['kalo', 'coba']",positif,1
-1645,2022,Makanan sisca mahal bangett :>>,makan sisca mahal banget,"['makan', 'sisca', 'mahal', 'banget']",positif,1
 1647,2022,@fadiljaidi lu ga di ajak,lu ajak,"['lu', 'ajak']",netral,1
 1648,2022,@fadiljaidi ga diajak??,ajak wajah renung,"['ajak', 'wajah', 'renung']",netral,1
 1649,2022,@fadiljaidi lu gak diajak bang,lu ajak bang,"['lu', 'ajak', 'bang']",netral,1
 1650,2022,Kak Sisca Cantik Banget Cocokk banget ama jess no limit??????,kak sisca cantik banget cocok banget jes no limit hati merah hati merah,"['kak', 'sisca', 'cantik', 'banget', 'cocok', 'banget', 'jes', 'no', 'limit', 'hati', 'merah', 'hati', 'merah']",positif,1
 1654,2022,Cocok banget,cocok banget,"['cocok', 'banget']",positif,1
-1656,2022,UANG LAGI BERMAIN GAME ??,uang main game wajah gembira urai air mata,"['uang', 'main', 'game', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,1
 1657,2022,LUCU BINGIT INI,lucu banget,"['lucu', 'banget']",positif,1
 1659,2022,Suka bgt kpribadian Siska udh kaya cantik baik ramah sopan good attitude pulak?? lengkap bgtt sumpahh ni cwe mahal anjirr,suka banget kpribadian siska kayak cantik ramah sopan good attitude wajah menang lengkap banget sumpah nih cewek mahal anjir,"['suka', 'banget', 'kpribadian', 'siska', 'kayak', 'cantik', 'ramah', 'sopan', 'good', 'attitude', 'wajah', 'menang', 'lengkap', 'banget', 'sumpah', 'nih', 'cewek', 'mahal', 'anjir']",positif,1
-1660,2022,Aslinya mereka itu prik menurut aku??,asli prik wajah menang keras,"['asli', 'prik', 'wajah', 'menang', 'keras']",positif,1
+1660,2022,Aslinya mereka itu prik menurut aku??,asli prik wajah menang keras,"['asli', 'prik', 'wajah', 'menang', 'keras']",negatif,1
 1661,2022,knp gue senyum2 sendiri y,gue senyum ya,"['gue', 'senyum', 'ya']",positif,1
 1662,2022,Keren toppingnya enak semua :'),keren toppingnya enak,"['keren', 'toppingnya', 'enak']",positif,1
 1663,2022,yaampun lucu amat sih sisca kohl ??,yaampun lucu sih sisca kohl wajah memelas,"['yaampun', 'lucu', 'sih', 'sisca', 'kohl', 'wajah', 'memelas']",positif,1
@@ -1193,13 +1088,9 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1711,2022,Aku udah dapet emote nya kak lucu banget deh....,emote nya kak lucu banget deh,"['emote', 'nya', 'kak', 'lucu', 'banget', 'deh']",positif,1
 1712,2022,Gundulin lagi bang.. Kayak emot nya ????,gundulin bang kayak emot nya api api,"['gundulin', 'bang', 'kayak', 'emot', 'nya', 'api', 'api']",positif,1
 1713,2022,lucu bgtttt,lucu banget,"['lucu', 'banget']",positif,1
-1714,2022,Hi abang invited aku,hi abang invited,"['hi', 'abang', 'invited']",positif,1
-1715,2022,Njir diamond nya ??,anjir diamond nya moa,"['anjir', 'diamond', 'nya', 'moa']",positif,1
-1716,2022,Aku pake sekin emot ituh kak aku suka banget ??,pakai sekin emot kak suka banget wajah senyum lebar mata hati,"['pakai', 'sekin', 'emot', 'kak', 'suka', 'banget', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,1
-1717,2022,Njir diamond nya,anjir diamond nya,"['anjir', 'diamond', 'nya']",positif,1
 1718,2022,"Sinih kalau berani ngasih iphone , ditunggu dirumah",sih berani asih iphone tunggu rumah,"['sih', 'berani', 'asih', 'iphone', 'tunggu', 'rumah']",netral,1
 1719,2022,Seneng pakai emot ini woyy,senang pakai emot woy,"['senang', 'pakai', 'emot', 'woy']",positif,1
-1720,2022,"Harga diri lo bisa dibeli loh, ti ati",harga lo beli loh ti ati,"['harga', 'lo', 'beli', 'loh', 'ti', 'ati']",positif,1
+1720,2022,"Harga diri lo bisa dibeli loh, ti ati",harga lo beli loh ti ati,"['harga', 'lo', 'beli', 'loh', 'ti', 'ati']",negatif,1
 1721,2022,Nikahnya pas ultah papa saya?? congratulations,nikah pas ultah papa wajah senyum lebar mata hati congratulations,"['nikah', 'pas', 'ultah', 'papa', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'congratulations']",positif,1
 1722,2022,Tuhan yesus meberkati kk kalin berdua,tuhan yesus meberkati kalin dua,"['tuhan', 'yesus', 'meberkati', 'kalin', 'dua']",positif,1
 1723,2022,Uhw Congratulations ???,uhw congratulations hati merah,"['uhw', 'congratulations', 'hati', 'merah']",positif,1
@@ -1208,16 +1099,9 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1726,2023,Sbenernya gampang tapu agak syulit sksmks,gampang tapu syulit sksmks,"['gampang', 'tapu', 'syulit', 'sksmks']",positif,1
 1727,2023,Pengen ngerasain dapat uang banyak dari kak sisca,pengin rasai uang kak sisca,"['pengin', 'rasai', 'uang', 'kak', 'sisca']",positif,1
 1728,2023,Ngidam yang tidak dapat di tiru orang lain selain siscakohl,idam tiru orang siscakohl,"['idam', 'tiru', 'orang', 'siscakohl']",positif,1
-1729,2023,Adakah pinjam seratus?,ada pinjam ratus,"['ada', 'pinjam', 'ratus']",positif,1
-1730,2023,Aku mau kak 20 jt aja buat modal dagang,kak juta modal dagang,"['kak', 'juta', 'modal', 'dagang']",positif,1
-1731,2023,Apalah arti 1jt untuk Sisca Kohl ??,apa arti jt sisca kohl wajah gembira dengan mata bahagia,"['apa', 'arti', 'jt', 'sisca', 'kohl', 'wajah', 'gembira', 'dengan', 'mata', 'bahagia']",positif,1
-1732,2023,Aku udah folo di tiktok trs udah  folo di ige nya tpi gak pernah dpt hadiah nya,folo tiktok folo ige nya hadiah nya,"['folo', 'tiktok', 'folo', 'ige', 'nya', 'hadiah', 'nya']",positif,1
-1733,2023,Kak coba ke bali setelah itu ke banjar tohpati denpasar timur,kak coba bal banjar tohpati denpasar timur,"['kak', 'coba', 'bal', 'banjar', 'tohpati', 'denpasar', 'timur']",positif,1
 1735,2023,Team yg ga pernah dapat,team,['team'],netral,1
 1736,2023,Aaa bumilnya lucu banget semangat ya kak jes sama kak sisca??,a bumilnya lucu banget semangat ya kak jes kak sisca wajah peluk,"['a', 'bumilnya', 'lucu', 'banget', 'semangat', 'ya', 'kak', 'jes', 'kak', 'sisca', 'wajah', 'peluk']",positif,1
 1737,2023,Iphone 13 promax ??,iphone promax tepuk tangan,"['iphone', 'promax', 'tepuk', 'tangan']",netral,1
-1739,2023,Pengen hadiah apa aja kak,pengin hadiah kak,"['pengin', 'hadiah', 'kak']",positif,1
-1741,2023,Indians be like Susu??,indians be like susu tertawa terbahakbahak,"['indians', 'be', 'like', 'susu', 'tertawa', 'terbahakbahak']",positif,1
 1744,2023,Enakkk banget,enak banget,"['enak', 'banget']",positif,1
 1745,2023,Bumil jangan lupa makan sehat,bumil lupa makan sehat,"['bumil', 'lupa', 'makan', 'sehat']",positif,1
 1746,2023,Lucuuu deh kaaa siscaa sehat? debay nyaa,lucu deh kak sisca sehat adek bayi nya,"['lucu', 'deh', 'kak', 'sisca', 'sehat', 'adek', 'bayi', 'nya']",positif,1
@@ -1290,8 +1174,8 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1832,2024,gemoi bgtt????,gemoi banget wajah menang keras hati besar,"['gemoi', 'banget', 'wajah', 'menang', 'keras', 'hati', 'besar']",positif,1
 1833,2024,Jatuh cinta sma baby gemesh ini??,jatuh cinta baby gemesh wajah senyum lebar mata hati,"['jatuh', 'cinta', 'baby', 'gemesh', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,1
 1834,2024,"Emak tiap liat lobster selalu bilang pengen makan itu, maafkeun mak aku gak kerja sekarang belom bisa beliin lobster ??",emak lihat lobster bilang pengin makan maafkeun mak kerja belikan lobster wajah menang keras,"['emak', 'lihat', 'lobster', 'bilang', 'pengin', 'makan', 'maafkeun', 'mak', 'kerja', 'belikan', 'lobster', 'wajah', 'menang', 'keras']",positif,1
-1835,2024,halo kakak,halo kakak,"['halo', 'kakak']",positif,1
-1836,2024,pasti itu mahal ya ica,mahal ya ica,"['mahal', 'ya', 'ica']",positif,1
+1835,2024,halo kakak,halo kakak,"['halo', 'kakak']",netral,1
+1836,2024,pasti itu mahal ya ica,mahal ya ica,"['mahal', 'ya', 'ica']",netral,1
 1837,2024,Enak pake tangan eceu makanya ??,enak pakai tangan eceu wajah gembira urai air mata,"['enak', 'pakai', 'tangan', 'eceu', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,1
 1838,2024,Cb krikiti pke tangan mbak jan tmbah wenakk yakin ??,coba krikiti pakai tangan mbak enak wajah senyum sombong,"['coba', 'krikiti', 'pakai', 'tangan', 'mbak', 'enak', 'wajah', 'senyum', 'sombong']",positif,1
 1839,2024,"Aku dah pernah makan lobster,yg belum pernah tuh di kasih hp iPhone sama kakak??",deh makan lobster tuh kasih hp iphone kakak wajah kedip,"['deh', 'makan', 'lobster', 'tuh', 'kasih', 'hp', 'iphone', 'kakak', 'wajah', 'kedip']",netral,1
@@ -4590,3 +4474,85 @@ Index,Tahun,Comments,preprocessed,tokenize_text,label,score
 5842,2024,LUCUUU BGTT COPIIIIIILUPYYY????????????????????????????????????,lucu banget copiilupy tangan jepit warna kulit cerahsedang tangan jepit warna kulit cerahsedang tangan jepit warna kulit cerahsedang tangan jepit warna kulit cerahsedang tangan jepit warna kulit cerahsedang tangan jepit warna kulit cerahsedang tangan jepit warna kulit cerahsedang tangan jepit warna kulit cerahsedang tangan jepit warna kulit cerahsedang,"['lucu', 'banget', 'copiilupy', 'tangan', 'jepit', 'warna', 'kulit', 'cerahsedang', 'tangan', 'jepit', 'warna', 'kulit', 'cerahsedang', 'tangan', 'jepit', 'warna', 'kulit', 'cerahsedang', 'tangan', 'jepit', 'warna', 'kulit', 'cerahsedang', 'tangan', 'jepit', 'warna', 'kulit', 'cerahsedang', 'tangan', 'jepit', 'warna', 'kulit', 'cerahsedang', 'tangan', 'jepit', 'warna', 'kulit', 'cerahsedang', 'tangan', 'jepit', 'warna', 'kulit', 'cerahsedang', 'tangan', 'jepit', 'warna', 'kulit', 'cerahsedang']",positif,-26
 5843,2021,Itu kok kyk isian bulu babi ya apakah betullll ??? klo isian bulu babi sih emg enk gurih tp klo yg d laut indonesia kyk yg prn aq makan isian ny sikit?? btw uang ny udh bleberan kmn2 kali ya??,kayak isi bulu babi ya kalo isi bulu babi sih enak gurih kalo laut indonesia kayak prn makan isi nya sikit wajah gembira urai air mata btw uang nya bleberan kmn kali ya wajah dengan mata ke atas,"['kayak', 'isi', 'bulu', 'babi', 'ya', 'kalo', 'isi', 'bulu', 'babi', 'sih', 'enak', 'gurih', 'kalo', 'laut', 'indonesia', 'kayak', 'prn', 'makan', 'isi', 'nya', 'sikit', 'wajah', 'gembira', 'urai', 'air', 'mata', 'btw', 'uang', 'nya', 'bleberan', 'kmn', 'kali', 'ya', 'wajah', 'dengan', 'mata', 'ke', 'atas']",negatif,-31
 5844,2023,ko ini gemes bgt? kenapa woi gemes bgt ekspresi kamuuuu sisssss???????????????????????????????????????????????,gemas banget woi gemas banget ekspresi sis wajah menang keras wajah menang keras wajah menang keras wajah menang keras wajah menang keras wajah menang keras wajah menang keras hati merah hati merah hati merah hati merah hati merah tanda seru ganda tanda seru ganda tanda seru ganda tanda seru ganda tanda seru ganda tanda seru ganda,"['gemas', 'banget', 'woi', 'gemas', 'banget', 'ekspresi', 'sis', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda']",negatif,-34
+,2024,"plekketiplek ko justin bgt mukanyaa,sehat sehat sllu shopiaaaa ????",plekketiplek justin banget muka sehat sehat shopia hati merah wajah dengan mata bentuk bintang,"['plekketiplek', 'justin', 'banget', 'muka', 'sehat', 'sehat', 'shopia', 'hati', 'merah', 'wajah', 'dengan', 'mata', 'bentuk', 'bintang']",positif,
+,2024,@pijibaik tapiii lucuuu sopiaaaa????????,lucu sopia hati besar hati besar hati besar hati besar,"['lucu', 'sopia', 'hati', 'besar', 'hati', 'besar', 'hati', 'besar', 'hati', 'besar']",positif,
+,2020,@siscakohl ohh oke ka semangat ya buat ka aliyah? makasih kak udah di jawab??,oh oke kak semangat ya kak aliyah terima kasih kak,"['oh', 'oke', 'kak', 'semangat', 'ya', 'kak', 'aliyah', 'terima', 'kasih', 'kak']",positif,
+,2021,MOOD BANGET HUUUAAAA???????? SEHAT" SELALU YA KAK SISCA DAN ALIYYAH MAKIN SUKSES,mood banget huua wajah menang keras wajah menang keras hati merah hati merah sehat ya kak sisca aliyyah sukses,"['mood', 'banget', 'huua', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'hati', 'merah', 'hati', 'merah', 'sehat', 'ya', 'kak', 'sisca', 'aliyyah', 'sukses']",positif,
+,2022,Seneng bgt lihat kalian bahagia ??,senang banget lihat bahagia hati merah,"['senang', 'banget', 'lihat', 'bahagia', 'hati', 'merah']",positif,
+,2022,Ya Allah romantis amat ya... ?? @siscakohl @jessnolimit,ya allah romantis ya wajah senyum lebar mata hati,"['ya', 'allah', 'romantis', 'ya', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,
+,2023,?????? sehat selalu shopiaaaa????,hati merah hati merah hati merah sehat shopia hati merah hati merah,"['hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'sehat', 'shopia', 'hati', 'merah', 'hati', 'merah']",positif,
+,2024,Omg you two are so cute??????,omg you two are sok cute api hati merah hati merah,"['omg', 'you', 'two', 'are', 'sok', 'cute', 'api', 'hati', 'merah', 'hati', 'merah']",positif,
+,2022,Seneng banget ngeliat kalian bahagia ??????,senang banget bahagia hati merah hati merah hati merah,"['senang', 'banget', 'bahagia', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,
+,2022,@bbyyoongiyoul_ thanks kak!??,thanks kak angkat tangan,"['thanks', 'kak', 'angkat', 'tangan']",positif,
+,2022,"Merinding terus kalau liat video ini, langgeng ya????",merinding lihat video langgeng ya hati merah api,"['merinding', 'lihat', 'video', 'langgeng', 'ya', 'hati', 'merah', 'api']",positif,
+,2022,????semoga langgeng,hati merah hati merah moga langgeng,"['hati', 'merah', 'hati', 'merah', 'moga', 'langgeng']",positif,
+,2023,@chellyzious hahahah....kan coba-coba berhadiah ????,hahahah cobacoba hadiah wajah gembira dengan mata bahagia wajah gembira dengan mata bahagia,"['hahahah', 'cobacoba', 'hadiah', 'wajah', 'gembira', 'dengan', 'mata', 'bahagia', 'wajah', 'gembira', 'dengan', 'mata', 'bahagia']",positif,
+,2023,@gilangtama48 betul bngt semoga kita fns nya mereka nular harta aminn....??????,banget moga fns nya nular harta amin tepuk tangan angkat tangan hati merah,"['banget', 'moga', 'fns', 'nya', 'nular', 'harta', 'amin', 'tepuk', 'tangan', 'angkat', 'tangan', 'hati', 'merah']",positif,
+,2024,"MasyaAllah , semoga shopia selalu di berikan kesehatan ya ??????",masyaallah moga shopia sehat ya tangan jepit tangan angkat dan rapat sama wajah senyum,"['masyaallah', 'moga', 'shopia', 'sehat', 'ya', 'tangan', 'jepit', 'tangan', 'angkat', 'dan', 'rapat', 'sama', 'wajah', 'senyum']",positif,
+,2020,Coba ahhhh yuk kita coba @innoblrd,coba ah yuk coba,"['coba', 'ah', 'yuk', 'coba']",positif,
+,2022,Tuhan Yesus memberkati ??????,tuhan yesus kati hati merah hati merah lipat tangan,"['tuhan', 'yesus', 'kati', 'hati', 'merah', 'hati', 'merah', 'lipat', 'tangan']",positif,
+,2022,Semoga langgeng terus??,moga langgeng hati merah,"['moga', 'langgeng', 'hati', 'merah']",positif,
+,2023,Sukses dan sehat terus buat Ka Siska dan Ka Justin ???,sukses sehat kak siska kak justin,"['sukses', 'sehat', 'kak', 'siska', 'kak', 'justin']",positif,
+,2022,"Ketawanya elegan bngt heran, beda bet sama kita bewawakan ?? @junbutarbutar @arinirach @lisaarayar @angrynto",ketawa elegan banget heran beda banget bewawakan wajah menang,"['ketawa', 'elegan', 'banget', 'heran', 'beda', 'banget', 'bewawakan', 'wajah', 'menang']",positif,
+,2022,Sweet @siscakohl ??@jessnolimit,sweet hati merah,"['sweet', 'hati', 'merah']",positif,
+,2022,"""Apapun makanannya harus tetap bersyukur""  masyaaAllah kak Sisca??",apa makan syukur masyaallah kak sisca tanda seru bentuk hati,"['apa', 'makan', 'syukur', 'masyaallah', 'kak', 'sisca', 'tanda', 'seru', 'bentuk', 'hati']",positif,
+,2022,org kaya yg gak banyak gaya.. dari cara pakaiannya sederhana banget suka??????,orang kayak gaya pakai sederhana banget suka api angkat tangan hati merah,"['orang', 'kayak', 'gaya', 'pakai', 'sederhana', 'banget', 'suka', 'api', 'angkat', 'tangan', 'hati', 'merah']",positif,
+,2022,Sehat selalu kak??,sehat kak hati merah,"['sehat', 'kak', 'hati', 'merah']",positif,
+,2022,So sweet??,sok sweet hati merah,"['sok', 'sweet', 'hati', 'merah']",positif,
+,2022,Lucu bgtt??????,lucu banget hati merah hati merah hati merah,"['lucu', 'banget', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,
+,2022,sweet bener klean??,sweet klean hati merah,"['sweet', 'klean', 'hati', 'merah']",positif,
+,2022,Mie? emang mantaap??,mienasi mantap wajah gembira urai air mata,"['mienasi', 'mantap', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,
+,2024,Gemessss banget????????????????,gemas banget wajah terlalu lelah hati merah hati merah hati merah hati merah hati merah hati merah hati merah,"['gemas', 'banget', 'wajah', 'terlalu', 'lelah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah']",positif,
+,2024,Baby sophiaaaaa????,baby sophia hati merah hati merah,"['baby', 'sophia', 'hati', 'merah', 'hati', 'merah']",positif,
+,2024,"PIPINYA MIRIP MAMANYA, MATANYA MIRIP BANG JESSS.... Kelas gak sih, FULLLL POWERRRRRR...??",pipi mama mata bang jes kelas sih ful power api,"['pipi', 'mama', 'mata', 'bang', 'jes', 'kelas', 'sih', 'ful', 'power', 'api']",positif,
+,2022,"Ya ampon, sweet banget, karena aku sayang sama ayang, ?? kirain bakal ga disiram, eh malah minta siram bareng ??",ya ampon sweet banget sayang ayang hati merah siram eh siram bareng wajah gembira urai air mata,"['ya', 'ampon', 'sweet', 'banget', 'sayang', 'ayang', 'hati', 'merah', 'siram', 'eh', 'siram', 'bareng', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,
+,2022,benar jg ?apapun makanannya harus tetap bersyukur?????????,apa makan syukur warna kulit cerah tepuk tangan warna kulit cerah,"['apa', 'makan', 'syukur', 'warna', 'kulit', 'cerah', 'tepuk', 'tangan', 'warna', 'kulit', 'cerah']",positif,
+,2022,Selalu sopan pakaiannya ??????????,sopan pakai hati merah hati merah hati merah hati merah wajah senyum lebar mata hati,"['sopan', 'pakai', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,
+,2022,So sweet banget sih kalian????,sok sweet banget sih wajah senyum lebar mata hati hati merah,"['sok', 'sweet', 'banget', 'sih', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'hati', 'merah']",positif,
+,2023,ko ini gemes bgt? kenapa woi gemes bgt ekspresi kamuuuu sisssss????????????????????????????????????,gemas banget woi gemas banget ekspresi sis wajah menang keras wajah menang keras wajah menang keras wajah menang keras wajah menang keras wajah menang keras wajah menang keras hati merah hati merah hati merah hati merah hati merah tanda seru ganda tanda seru ganda tanda seru ganda tanda seru ganda tanda seru ganda tanda seru ganda,"['gemas', 'banget', 'woi', 'gemas', 'banget', 'ekspresi', 'sis', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'hati', 'merah', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda', 'tanda', 'seru', 'ganda']",positif,
+,2022,Tombol kenapa ga banyakin konten kyk gini ??????,tombol banyak konten kayak tanda panah kanan tanda panah kanan tanda panah kanan,"['tombol', 'banyak', 'konten', 'kayak', 'tanda', 'panah', 'kanan', 'tanda', 'panah', 'kanan', 'tanda', 'panah', 'kanan']",positif,
+,2024,Konten kalian bikin iri ?? semoga kalian rukun" terus ya berantem" dikit gpp yang penting abis tu baikan ??,konten bikin iri wajah menang keras moga rukun ya antem dikit gp habis baik hati merah,"['konten', 'bikin', 'iri', 'wajah', 'menang', 'keras', 'moga', 'rukun', 'ya', 'antem', 'dikit', 'gp', 'habis', 'baik', 'hati', 'merah']",positif,
+,2024,"aduh pipinyaa meluber luber sofiaa, onti cubit nih ?????",aduh pipi luber luber sofia onti cubit nih wajah menang keras tangan jepit,"['aduh', 'pipi', 'luber', 'luber', 'sofia', 'onti', 'cubit', 'nih', 'wajah', 'menang', 'keras', 'tangan', 'jepit']",positif,
+,2024,CUTENESSS OVERLOADDDD ????????????????????????,cutenes overload tangan jepit warna kulit cerah tangan jepit warna kulit cerah tangan jepit warna kulit cerah tangan jepit warna kulit cerah tangan jepit warna kulit cerah hati besar hati besar hati besar hati besar hati besar hati besar hati besar wajah senyum lebar mata hati wajah senyum lebar mata hati wajah senyum lebar mata hati wajah senyum lebar mata hati wajah senyum lebar mata hati,"['cutenes', 'overload', 'tangan', 'jepit', 'warna', 'kulit', 'cerah', 'tangan', 'jepit', 'warna', 'kulit', 'cerah', 'tangan', 'jepit', 'warna', 'kulit', 'cerah', 'tangan', 'jepit', 'warna', 'kulit', 'cerah', 'tangan', 'jepit', 'warna', 'kulit', 'cerah', 'hati', 'besar', 'hati', 'besar', 'hati', 'besar', 'hati', 'besar', 'hati', 'besar', 'hati', 'besar', 'hati', 'besar', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,
+,2024,Rugi dong klo dipanggil sisca gak senyum??,rugi kalo panggil sisca senyum wajah gembira urai air mata,"['rugi', 'kalo', 'panggil', 'sisca', 'senyum', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,
+,2022,@scrltvlxx hahahahaha ?????? kiapa so drg ini kang dpa lia cute skli .. pdhal klo mo pikir lebay mar ucuuu gemesss eh,hahahahaha wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata kiapa sok drg kang dpa lia cute kalo pikir lebay mar ucu gemas eh,"['hahahahaha', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'kiapa', 'sok', 'drg', 'kang', 'dpa', 'lia', 'cute', 'kalo', 'pikir', 'lebay', 'mar', 'ucu', 'gemas', 'eh']",positif,
+,2023,Banyi nya imut kek aku??,banyi nya imut kayak wajah senyum lebar mata hati,"['banyi', 'nya', 'imut', 'kayak', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,
+,2023,Anakku juga pake libby. Bagus bahannya,anak pakai libby bagus bahan,"['anak', 'pakai', 'libby', 'bagus', 'bahan']",positif,
+,2024,"Mau beli tapi belum ada uangnya. Sekarang Dede bayinya minta gendong terus. Walaupun mama sudah cape , ngantuk sampai nahan pusing karena belum tidur. Semoga ada rejeki buat dede bayi. Amin @siscakohl",beli uang adek bayi gendong mama capek ngantuk tahan pusing tidur moga rejeki adek bayi amin,"['beli', 'uang', 'adek', 'bayi', 'gendong', 'mama', 'capek', 'ngantuk', 'tahan', 'pusing', 'tidur', 'moga', 'rejeki', 'adek', 'bayi', 'amin']",positif,
+,2024,"Gimana ya , mereka berdua ini polos gimana gitu , liat lah konten2 mereka . Idea pasti 80% dari sisca then justin just buat apa yg istri dia mau dan buat wife dia happy . Dari sudut pandang aku , ramai fans nya yg kepo sama anak mereka maka mereka buat acc khusus sofia , aku nangkep nga mereka buat seru seruan ajaa tapi netizen miskin sdm rendah malah entah kemana mana fikirannya . Just mind ur own business , kasian mereka walaupun kontennya kadang gaje tapi mereka ga pernah ngusik sesiapa !",ya dua polos lihat kontenkonten idea sisca then justin just istri wife happy sudut pandang ramai fan nya kepo anak ac khusus sofia nangkep seru seru netizen miskin sdm rendah mana fikirannya just mind ur own busines kasihan konten kadang ngusik siapa,"['ya', 'dua', 'polos', 'lihat', 'kontenkonten', 'idea', 'sisca', 'then', 'justin', 'just', 'istri', 'wife', 'happy', 'sudut', 'pandang', 'ramai', 'fan', 'nya', 'kepo', 'anak', 'ac', 'khusus', 'sofia', 'nangkep', 'seru', 'seru', 'netizen', 'miskin', 'sdm', 'rendah', 'mana', 'fikirannya', 'just', 'mind', 'ur', 'own', 'busines', 'kasihan', 'konten', 'kadang', 'ngusik', 'siapa']",positif,
+,2024,enak banget kayanya ????,enak banget kaya ngiler ngiler,"['enak', 'banget', 'kaya', 'ngiler', 'ngiler']",positif,
+,2024,Aura kaya nya keluar banget????,aura kayak nya banget wajah menang keras wajah menang keras,"['aura', 'kayak', 'nya', 'banget', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras']",positif,
+,2024,Pantesan kak kek mirip siapa gitu baru keinget lucuu??,pantesan kak kayak lucu wajah senyum lebar mata hati,"['pantesan', 'kak', 'kayak', 'lucu', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,
+,2024,Mereka masih muda tpi urusan jaga anak dan berumah  tangga mereka udah siap banget salut seh????????,muda urus jaga anak rumah tangga banget salut sih wajah senyum dengan air mata wajah senyum dengan air mata wajah senyum dengan hati wajah senyum dengan hati,"['muda', 'urus', 'jaga', 'anak', 'rumah', 'tangga', 'banget', 'salut', 'sih', 'wajah', 'senyum', 'dengan', 'air', 'mata', 'wajah', 'senyum', 'dengan', 'air', 'mata', 'wajah', 'senyum', 'dengan', 'hati', 'wajah', 'senyum', 'dengan', 'hati']",positif,
+,2020,"@nrhalisahhhh  wadidaww, yg punya ide siapa sih ???",wadidaw ide sih,"['wadidaw', 'ide', 'sih']",negatif,0
+,2020,@febiola_162 skipp,skip,['skip'],negatif,0
+,2020,@destiindriyani_ astagaaaaa hahahah??????,astaga hahahah,"['astaga', 'hahahah']",negatif,-1
+,2020,"@_anas.hidayah8_ yaa klo gitu gk usah di liatin lah muka nya , gitu aja RIBET bgt",hidayah ya kalo lihat muka nya ribet banget,"['hidayah', 'ya', 'kalo', 'lihat', 'muka', 'nya', 'ribet', 'banget']",negatif,-1
+,2021,@oliviaaa__26  Nangis melihat ini,menang,['menang'],negatif,-1
+,2021,@donietlw pecinta seblak menangisssssss ????,cinta seblak menang wajah menang keras wajah menang keras,"['cinta', 'seblak', 'menang', 'wajah', 'menang', 'keras', 'wajah', 'menang', 'keras']",negatif,-1
+,2021,@nerissa_arviana21 gila ini mah,gila mah,"['gila', 'mah']",negatif,-1
+,2021,@c_1_l_o_k ngadi2 beb ieuteh??,ngadi beb ieuteh wajah menang keras,"['ngadi', 'beb', 'ieuteh', 'wajah', 'menang', 'keras']",negatif,-1
+,2021,@rexa.strudel aku mengsedih kak??,strudel mengsedih kak wajah menang,"['strudel', 'mengsedih', 'kak', 'wajah', 'menang']",negatif,-1
+,2021,Beli duren di aku aja neng aku bonusin pohon sama tanahnya 1x1m @siscakohl,beli duren neng bonusin pohon tanah xm,"['beli', 'duren', 'neng', 'bonusin', 'pohon', 'tanah', 'xm']",negatif,-1
+,2021,@eira_kim00 Untung Kg Hambar,untung kg hambar,"['untung', 'kg', 'hambar']",negatif,-1
+,2021,@chi_chiiputri Gw setujuuu bgt sm Liu NOT RECOMMENDED FOR THIS FOOD.,gue tuju banget liu not recommended for this food,"['gue', 'tuju', 'banget', 'liu', 'not', 'recommended', 'for', 'this', 'food']",negatif,-1
+,2021,@iyanoh_ menanghesss ga u??,menanghes lu wajah gembira urai air mata,"['menanghes', 'lu', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-1
+,2021,@fiafifiya semoga semakin waras ??,moga waras wajah gembira urai air mata,"['moga', 'waras', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-1
+,2021,@fiafifiya deloken iki ??,deloken iki wajah gembira urai air mata,"['deloken', 'iki', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-1
+,2022,@jek5587 hahaha lawak kau ni ??,hahaha lawak kau nih wajah gembira urai air mata,"['hahaha', 'lawak', 'kau', 'nih', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-1
+,2022,@m.azzhraaa__ nangisss,azzhraa menang,"['azzhraa', 'menang']",negatif,-1
+,2020,"@hakaanr bnyak konten makanan lainnya, cuman bukan dompet pelajar, karna pake emas semua:(",konten makan cuman dompet ajar pakai emas,"['konten', 'makan', 'cuman', 'dompet', 'ajar', 'pakai', 'emas']",negatif,-2
+,2020,"@thrsnstsy_ mahal bagaimana toppoki ada yg 30an rb jg ada dishopee mbak kimchi gue beli di diamond cuma 40an rb trs keju nya pakai yg indonesia di diamond murah2,terus pakai ramyeon gk sampe 100rb paling mahal 50rb dr pd beli di restoran jauh lbh mahal gue suka bikin dirumah terus buat bikin gimbab nya bikin sendiri bahan2 muda dicari",mahal toppoki an ribu dishope mbak kimchi gue beli diamond an ribu keju nya pakai indonesia diamond murah pakai ramyeon rb mahal rb beli restoran mahal gue suka bikin rumah bikin gimbab nya bikin bahan muda cari,"['mahal', 'toppoki', 'an', 'ribu', 'dishope', 'mbak', 'kimchi', 'gue', 'beli', 'diamond', 'an', 'ribu', 'keju', 'nya', 'pakai', 'indonesia', 'diamond', 'murah', 'pakai', 'ramyeon', 'rb', 'mahal', 'rb', 'beli', 'restoran', 'mahal', 'gue', 'suka', 'bikin', 'rumah', 'bikin', 'gimbab', 'nya', 'bikin', 'bahan', 'muda', 'cari']",negatif,-2
+,2020,@clara_caroline wkkwkkwk. Ternyata benern kgk enak ???,wkkwkkwk benern kgk enak,"['wkkwkkwk', 'benern', 'kgk', 'enak']",negatif,-2
+,2020,@amaliawisab wkkwkwkkwk dikasih juga ogah ye,wkkwkwkkwk kasih ogah ye,"['wkkwkwkkwk', 'kasih', 'ogah', 'ye']",negatif,-2
+,2020,@aesthetiqgurll iya jijik gua liat mukanya,iya jijik gua lihat muka,"['iya', 'jijik', 'gua', 'lihat', 'muka']",negatif,-2
+,2020,@adit.praatama wanjayy... Serem beud cemilannya ??,praatama wanjay seram banget cemilannya,"['praatama', 'wanjay', 'seram', 'banget', 'cemilannya']",negatif,-4
+,2020,"@ekyfahmiaa wididaaaw, baru diomong kemarenn",wididaaw omong kemarin,"['wididaaw', 'omong', 'kemarin']",negatif,-4
+,2021,@miniboonie kaya tapi kok ah.... Sudahlah??????,kayak ah wajah menang keras bersin bersin,"['kayak', 'ah', 'wajah', 'menang', 'keras', 'bersin', 'bersin']",negatif,-4
+,2021,Gimana kalo kita ambil aja mesin es krimnya daripada meresahkan ?? @nurliahasyim @renideboraa,kalo ambil mesin es krim resah wajah gembira urai air mata,"['kalo', 'ambil', 'mesin', 'es', 'krim', 'resah', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-10
+,2022,@imspbrynti29 nda ush malu dh jdi fosil??,indak malu dah fosil wajah gembira urai air mata,"['indak', 'malu', 'dah', 'fosil', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-10
+,2022,@taqytan Gak usah serius serius amat bang kan lagi BUCIN BUCIN nya mrk,serius serius bang bucin bucin nya,"['serius', 'serius', 'bang', 'bucin', 'bucin', 'nya']",negatif,-10
+,2022,@nellynaolin ?????? baru ngeh salah nulis.,wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata engah salah tulis,"['wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'engah', 'salah', 'tulis']",negatif,-10
+,2020,me nek bikin dadi kek tai neh kek churos?@putrimeilani_,me nek bikin dadi kayak tahi nih kayak churos,"['me', 'nek', 'bikin', 'dadi', 'kayak', 'tahi', 'nih', 'kayak', 'churos']",negatif,-11
+,2021,@sahidha.fitrian_a hidup mu itu di penuhi iri dan dengki,fitri a hidup mu penuh iri dengki,"['fitri', 'a', 'hidup', 'mu', 'penuh', 'iri', 'dengki']",negatif,-11
+,2022,@jek5587 awkwkwk matre bapak kau ngapain jess matre org dia juga kaya gak kek lu modal nyinyir doang,awkwkwk matre kau kapai jes matre orang kayak kayak lu modal nyinyir doang,"['awkwkwk', 'matre', 'kau', 'kapai', 'jes', 'matre', 'orang', 'kayak', 'kayak', 'lu', 'modal', 'nyinyir', 'doang']",negatif,-11
