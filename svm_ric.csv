@@ -1,6 +1,6 @@
 index,Tahun,Comments,preprocessed,tokenize_text,label,score
 1975,2023,     merep erpan,merep erpan,"['merep', 'erpan']",netral,0
-1165,2023,   bang isi dana gw boleh ga bangğ??­ lagi butuh bang mau jajanğ??¢,bang isi dana gue bang wajah menang keras butuh bang jajan wajah menang,"['bang', 'isi', 'dana', 'gue', 'bang', 'wajah', 'menang', 'keras', 'butuh', 'bang', 'jajan', 'wajah', 'menang']",negatif,-6
+2849,2023,   bang isi dana gw boleh ga bangğ??­ lagi butuh bang mau jajanğ??¢,bang isi dana gue bang wajah menang keras butuh bang jajan wajah menang,"['bang', 'isi', 'dana', 'gue', 'bang', 'wajah', 'menang', 'keras', 'butuh', 'bang', 'jajan', 'wajah', 'menang']",netral,
 883,2023,"   biar gw gx makan beton, kasih lah ge ipone ğ???ğ???ğ???",biar gue makan beton kasih ge ipone angkat tangan wajah gembira urai air mata wajah gembira urai air mata,"['biar', 'gue', 'makan', 'beton', 'kasih', 'ge', 'ipone', 'angkat', 'tangan', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,1
 1560,2023,   bisa buat seluncuran. Yg jls apapun itu tetap wow,seluncur jls apa wow,"['seluncur', 'jls', 'apa', 'wow']",positif,-3
 1925,2023,"   gimana kak ,kami yg dri merauke GK prna dapat hadia dri kakağ??¢",kak merauke prna hadia kakak wajah menang,"['kak', 'merauke', 'prna', 'hadia', 'kakak', 'wajah', 'menang']",negatif,-1
@@ -37,7 +37,7 @@ index,Tahun,Comments,preprocessed,tokenize_text,label,score
 449,2023,"  buat ka Willie ajak2 dong ke istana nya ka wilie buat borong di Willie mart nya, udh folow nih, bismilah 500 ribuğ??ğ??",kak willie ajak istana nya kak wilie borong willie mart nya folow nih bismilah ribu lipat tangan lipat tangan,"['kak', 'willie', 'ajak', 'istana', 'nya', 'kak', 'wilie', 'borong', 'willie', 'mart', 'nya', 'folow', 'nih', 'bismilah', 'ribu', 'lipat', 'tangan', 'lipat', 'tangan']",positif,4
 1402,2023,  cek dm ka,cek dm kak,"['cek', 'dm', 'kak']",netral,-4
 1075,2023,  cek DM kak ğ??¬ aku lagi nntn kkk sekarang,cek dm kak wajah seringai tonton,"['cek', 'dm', 'kak', 'wajah', 'seringai', 'tonton']",netral,-8
-1961,2023,  cii ğ??­,ci wajah menang keras,"['ci', 'wajah', 'menang', 'keras']",negatif,-1
+2915,2023,  cii ğ??­,ci wajah menang keras,"['ci', 'wajah', 'menang', 'keras']",netral,
 1115,2023,  ğ???ğ???ğ???ğ??ğ??ğ??ğ???,wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata wajah senyum lebar mata hati wajah senyum lebar mata hati wajah senyum lebar mata hati wajah gembira urai air mata,"['wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'senyum', 'lebar', 'mata', 'hati', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-7
 387,2023,"  ğ???suhu, panutan gua",angkat tangan suhu panutan gua,"['angkat', 'tangan', 'suhu', 'panutan', 'gua']",positif,4
 312,2023,  ğ?¤£,tertawa terbahakbahak,"['tertawa', 'terbahakbahak']",positif,5
@@ -366,7 +366,6 @@ Mohon bantu sama  ",assalamualaikum disabilitas tuna rungu maaf tolong mohon bel
 1539,2023,Bang riccienick agamanya apa sih,bang riccienick agama sih,"['bang', 'riccienick', 'agama', 'sih']",negatif,-3
 878,2023,Bang richie kalau saya kasih 500rb bang richie berani apa?,bang richie kasih rb bang richie berani,"['bang', 'richie', 'kasih', 'rb', 'bang', 'richie', 'berani']",positif,1
 1714,2023,Bang sakit perut ga pas minum kiranti,bang sakit perut pas minum kiranti,"['bang', 'sakit', 'perut', 'pas', 'minum', 'kiranti']",netral,-2
-2969,2023,Bang Top up pin bang plis 3142184158,bang top up pin bang plis,"['bang', 'top', 'up', 'pin', 'bang', 'plis']",netral,
 779,2023,Bang traktir ayam goreng ğ??,bang traktir ayam goreng wajah gembira dengan mata bahagia,"['bang', 'traktir', 'ayam', 'goreng', 'wajah', 'gembira', 'dengan', 'mata', 'bahagia']",positif,2
 1259,2023,Bang ud centang biru tu,bang centang biru,"['bang', 'centang', 'biru']",negatif,-5
 1998,2023,Bang willieğ??®ğ??®ğ??ğ??,bang willie wajah dengan mulut buka wajah dengan mulut buka tepuk tangan tepuk tangan,"['bang', 'willie', 'wajah', 'dengan', 'mulut', 'buka', 'wajah', 'dengan', 'mulut', 'buka', 'tepuk', 'tangan', 'tepuk', 'tangan']",netral,0
@@ -577,7 +576,6 @@ ig :  .plan",api promo al maskapai api internasional domestik berangkat max h di
 1271,2023,DipikirÂ²mending zikir takut dosa,pikir mending zikir takut dosa,"['pikir', 'mending', 'zikir', 'takut', 'dosa']",negatif,-5
 205,2023,doa semoga selalu bahagia dan sukses kk Ricci,doa moga bahagia sukses ricci,"['doa', 'moga', 'bahagia', 'sukses', 'ricci']",positif,7
 1727,2023,Done bang tangan gua dah pegel siapa tau dinotice wkwkw udh spam like,done bang tangan gua deh gel tau dinotice wkwkw spam like,"['done', 'bang', 'tangan', 'gua', 'deh', 'gel', 'tau', 'dinotice', 'wkwkw', 'spam', 'like']",negatif,-2
-2985,2023,DORA THE MOVIEğ??¥,dora the movie api,"['dora', 'the', 'movie', 'api']",netral,
 1417,2023,Dosa loh bang,dosa loh bang,"['dosa', 'loh', 'bang']",negatif,-4
 1278,2023,"DUIT AJA, GAK BUTUH AIPON  ",duit butuh aipon,"['duit', 'butuh', 'aipon']",negatif,-5
 1977,2023,Dulu gk seperty itu,seperty,['seperty'],netral,0
@@ -964,7 +962,7 @@ Tanpa mengurangi rasa hormat saya apa kah kaka tidak keberatan meminjam kan saya
 1072,2023,Ko sebel ya liatnya ke maenin hati gitu PHP ğ??,sebel ya lihat maenin hati php wajah senyum sombong,"['sebel', 'ya', 'lihat', 'maenin', 'hati', 'php', 'wajah', 'senyum', 'sombong']",negatif,-8
 2312,2023,Ko tante gw yang ditengah gak lu sorotğ??,tante gue tengah lu sorot wajah senyum sombong,"['tante', 'gue', 'tengah', 'lu', 'sorot', 'wajah', 'senyum', 'sombong']",netral,0
 1384,2023,Kocaaaaakkk ko ğ???ğ???ğ???ğ???,kocaak wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata,"['kocaak', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-4
-3130,2023,Kog cm 5 trus keliatan.katanya 19ğ???,kelihatankatanya wajah gembira urai air mata,"['kelihatankatanya', 'wajah', 'gembira', 'urai', 'air', 'mata']",netral,
+3130,2023,Kog cm 5 trus keliatan.katanya 19ğ???,kelihatankatanya wajah gembira urai air mata,"['kelihatankatanya', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,
 1184,2023,Koh kapan berhenti jadi jomblo,koh henti jomblo,"['koh', 'henti', 'jomblo']",negatif,-6
 391,2023,Koh Steven Stenly sih lebih ke memberi motivasi dan selalu mambagi2 rejeki,koh steven stenly sih motivasi mambagi rejeki,"['koh', 'steven', 'stenly', 'sih', 'motivasi', 'mambagi', 'rejeki']",positif,4
 2349,2023,"kok di kota situ mulu kak, berani gak ke kota lain dan ajak follower nya main game bismilah 500 ribu buat jajan",kota situ mulu kak berani kota ajak follower nya main game bismilah ribu jajan,"['kota', 'situ', 'mulu', 'kak', 'berani', 'kota', 'ajak', 'follower', 'nya', 'main', 'game', 'bismilah', 'ribu', 'jajan']",netral,0
@@ -1028,10 +1026,6 @@ Tanpa mengurangi rasa hormat saya apa kah kaka tidak keberatan meminjam kan saya
 2261,2023,Mallnya galaxy mall,mallnya galaxy mal,"['mallnya', 'galaxy', 'mal']",netral,0
 2240,2023,Mana iPhone nya,iphone nya,"['iphone', 'nya']",netral,0
 2095,2023,Mana tira nya huhu ko blm buat konten bareng,tira nya huhu konten bareng,"['tira', 'nya', 'huhu', 'konten', 'bareng']",netral,0
-2800,2023,"Mangga2bet
-Kumpulan Quetos Katabijak2u
-Link Quetos : https://www.youtube.com/channel/UCZ6Fxwdp-e51kDZtmgnACcw
-#mangga2bet #mg2bet #mangga2gacor #slotmangga2bet #katabijak2u #zonabasah_lelaki #zonamata",manggabet kumpul quetos katabijaku link quetos lelaki,"['manggabet', 'kumpul', 'quetos', 'katabijaku', 'link', 'quetos', 'lelaki']",netral,
 877,2023,"Mantab,, bang pasukan blom mandi ikut senang",mantab bang pasu mandi senang,"['mantab', 'bang', 'pasu', 'mandi', 'senang']",positif,1
 234,2023,Mantap â¤ï¸,mantap hati merah,"['mantap', 'hati', 'merah']",positif,6
 302,2023,Mantap bang,mantap bang,"['mantap', 'bang']",positif,5
@@ -1193,7 +1187,7 @@ Link Quetos : https://www.youtube.com/channel/UCZ6Fxwdp-e51kDZtmgnACcw
 2928,2023,Pengen post dengan semua orang sayangnya ig hanya bisa 10 doang ğ??­,pengin post orang sayang ig doang wajah menang keras,"['pengin', 'post', 'orang', 'sayang', 'ig', 'doang', 'wajah', 'menang', 'keras']",positif,
 1086,2023,Pengikut setia Kakağ??,ikut setia kakak wajah senyum lebar mata hati,"['ikut', 'setia', 'kakak', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",positif,-8
 1260,2023,Percuma komen yg dpt kaum hawa alias cweğ??¢,komen kaum hawa alias cewek wajah menang,"['komen', 'kaum', 'hawa', 'alias', 'cewek', 'wajah', 'menang']",negatif,-5
-3115,2023,Percuma punya pacar banyak anak nya mana,pacar anak nya,"['pacar', 'anak', 'nya']",netral,
+3115,2023,Percuma punya pacar banyak anak nya mana,pacar anak nya,"['pacar', 'anak', 'nya']",negatif,
 1510,2023,Perkumpulan orang kaya,kumpul orang kayak,"['kumpul', 'orang', 'kayak']",netral,-3
 377,2023,Pertama kali liat bule pake batikğ??,kali lihat bule pakai batik tepuk tangan,"['kali', 'lihat', 'bule', 'pakai', 'batik', 'tepuk', 'tangan']",positif,4
 1357,2023,PHP aj*ng,php ng,"['php', 'ng']",negatif,-4
@@ -1474,10 +1468,6 @@ Kok beda banget Ama yg dulu ğ??­",serius kemas pakai beda banget wajah menang ke
 2050,2023,Wow keren banget ğ??,wow keren banget jempol ke atas,"['wow', 'keren', 'banget', 'jempol', 'ke', 'atas']",positif,0
 2180,2023,Wow keren ğ??,wow keren jempol ke atas,"['wow', 'keren', 'jempol', 'ke', 'atas']",positif,0
 1763,2023,"Wowww yg cew tulen insecure nii w, emg boleh se bening tu   ğ??",wow cewek tulen insecure nih gue bening wajah senyum lebar mata hati,"['wow', 'cewek', 'tulen', 'insecure', 'nih', 'gue', 'bening', 'wajah', 'senyum', 'lebar', 'mata', 'hati']",negatif,-2
-3009,2023,"Wukong55, Situs Gacor!!..
-Rasakan Sensasi Kemenangannya Sekarang Juga!!..
-Banyak Promo Menarik...
-Link : heylink.me/wukong55",wukong situs gacor rasa sensasi menang promo tarik link heylinkmewukong,"['wukong', 'situs', 'gacor', 'rasa', 'sensasi', 'menang', 'promo', 'tarik', 'link', 'heylinkmewukong']",netral,
 1762,2023,Ya glowing tapi kok kaya senyum joker ya,ya glowing kayak senyum joker ya,"['ya', 'glowing', 'kayak', 'senyum', 'joker', 'ya']",negatif,-2
 2065,2023,ya kamuu lahhhh chuakz,ya chuakz,"['ya', 'chuakz']",netral,0
 531,2023,Ya nama saling membantu sarah ğ??¸ğ???,ya nama bantu sarah gitar angkat tangan,"['ya', 'nama', 'bantu', 'sarah', 'gitar', 'angkat', 'tangan']",positif,3
@@ -1523,7 +1513,6 @@ Link : heylink.me/wukong55",wukong situs gacor rasa sensasi menang promo tarik l
 1012,2023,Youtuber miskin lu ksh tantangan bapak2 mkn mie pedes cmn dpt 100rb kambenggg lu,youtuber miskin lu kasih tantang bapak mie pedas cuman rb kambeng lu,"['youtuber', 'miskin', 'lu', 'kasih', 'tantang', 'bapak', 'mie', 'pedas', 'cuman', 'rb', 'kambeng', 'lu']",negatif,-12
 704,2023,Youtuber no 1 aku dong kirimin iphon,youtuber no kirim iphon,"['youtuber', 'no', 'kirim', 'iphon']",positif,2
 1546,2023,"Yuhuuuui cryptomology sinyal future rungkad , yuhuuuuiuğ???ğ???ğ???",yuhuui cryptomology sinyal future rungkad yuhuuiu wajah gembira urai air mata wajah gembira urai air mata wajah gembira urai air mata,"['yuhuui', 'cryptomology', 'sinyal', 'future', 'rungkad', 'yuhuuiu', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-3
-2789,2023,"YUK MABAR DI AONCASH , KITA HABISKAN BANDAR, WEDE KAN SEBANYAK""NYA",yuk mabar aoncash habis bandar wede nya,"['yuk', 'mabar', 'aoncash', 'habis', 'bandar', 'wede', 'nya']",netral,
 1243,2023,Yuzhong nyasar itu ğ???,yuzhong nyasar wajah gembira urai air mata,"['yuzhong', 'nyasar', 'wajah', 'gembira', 'urai', 'air', 'mata']",netral,-5
 1866,2024,   gausa iriğ??¥,iri api,"['iri', 'api']",negatif,-2
 1150,2024,   semoga koko bsa bantu untuk bayar utangğ??¢ğ??¢ğ??¢ğ??ğ??,moga koko bantu bayar utang wajah menang wajah menang wajah menang tepuk tangan tepuk tangan,"['moga', 'koko', 'bantu', 'bayar', 'utang', 'wajah', 'menang', 'wajah', 'menang', 'wajah', 'menang', 'tepuk', 'tangan', 'tepuk', 'tangan']",netral,-7
@@ -2941,3 +2930,48 @@ Jannah Rasulullah SAW bersabda: ""Barang siapa yang menyampaikan 1 (satu) ilmu s
 1637,2024,yoy lu jangan banyak pacar nati susa coloknyağ???,yoy lu pacar nati susa colok wajah gembira urai air mata,"['yoy', 'lu', 'pacar', 'nati', 'susa', 'colok', 'wajah', 'gembira', 'urai', 'air', 'mata']",negatif,-3
 2642,2024,Zina bro,zina bro,"['zina', 'bro']",netral,0
 961,2024,ZX itu mobil,zx mobil,"['zx', 'mobil']",positif,1
+,2023,"Baby face bgt ya bg Riccie, terlove~love boleh gak sih?",baby face banget ya bang riccie terlovelove sih,"['baby', 'face', 'banget', 'ya', 'bang', 'riccie', 'terlovelove', 'sih']",positif,2
+,2023, .rp  wkwk ora cindo Parung keren keren ğ???,rp wkwk ora cindo parung keren keren wajah gembira urai air mata,"['rp', 'wkwk', 'ora', 'cindo', 'parung', 'keren', 'keren', 'wajah', 'gembira', 'urai', 'air', 'mata']",positif,-4
+,2024,Tadi aku kira itu yg diujung vilmei,ujung vilmei,"['ujung', 'vilmei']",netral,-3
+,2024, .berbagi_,bagi,['bagi'],positif,-2
+,2023,KA saya mau dong,kak,['kak'],netral,0
+,2023,Aku mau iPhone KK boleh GK kk,iphone,['iphone'],netral,0
+,2023,Kak mauuuuuuuuu,kak,['kak'],netral,0
+,2023,Mau dong bang,bang,['bang'],netral,0
+,2023,iyaaa diaa,iya,['iya'],netral,0
+,2023,dapet yuhh,tuh,['tuh'],netral,0
+,2023,Iyh tu,iya,['iya'],netral,0
+,2023,Pertama bng,bang,['bang'],netral,0
+,2023,5 bg,bang,['bang'],netral,0
+,2023,7 bang,bang,['bang'],netral,0
+,2023,5 sih,sih,['sih'],netral,0
+,2023,5 kak,kak,['kak'],netral,0
+,2023,5 sii,sih,['sih'],netral,0
+,2023,5 bng,bang,['bang'],netral,0
+,2023,7 sii,sih,['sih'],netral,0
+,2023,100 aja bang,bang,['bang'],netral,0
+,2023,5 aj bang,bang,['bang'],netral,0
+,2023,5 bang,bang,['bang'],netral,0
+,2023,7 aja bang,bang,['bang'],netral,0
+,2023,  win,win,['win'],netral,0
+,2023,Bagi bg satu,bang,['bang'],netral,0
+,2023,Sampe jadi bg  ,bang,['bang'],netral,0
+,2023,Mau dong kak,kak,['kak'],netral,0
+,2023,Mau dong bg,bang,['bang'],netral,0
+,2023,Siapa yang gamauu tuch,tuh,['tuh'],netral,0
+,2023,Aku bangg,bang,['bang'],netral,0
+,2023,   bg wiill uda follow ig di tik tok uda lama gk dapat juga... Aku nya kpn bg dpat,bang wiil follow ig tik tok nya bang dpat,"['bang', 'wiil', 'follow', 'ig', 'tik', 'tok', 'nya', 'bang', 'dpat']",netral,0
+,2024,Aku bang,bang,['bang'],netral,0
+,2024,Mau iPhone 11,iphone,['iphone'],netral,0
+,2024,  mau dong aku kak,kak,['kak'],netral,0
+,2024,Mau bang,bang,['bang'],netral,0
+,2024,Mau bangg,bang,['bang'],netral,0
+,2024,  iya betul,iya,['iya'],netral,0
+,2024,  bener tuchh,tuh,['tuh'],netral,0
+,2024,  mau iphone,iphone,['iphone'],netral,0
+,2024,Aku sudah follow,follow,['follow'],netral,0
+,2024,Saya sudah bg,bang,['bang'],netral,0
+,2024,Aku udh follow semua,follow,['follow'],netral,0
+,2024,Kk aku udah follow kk,follow,['follow'],netral,0
+,2024,Ingat bang,bang,['bang'],netral,0
+,2024,  iya,iya,['iya'],netral,0
